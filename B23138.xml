@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A primer for the schollers and doctors of Europe, but especially to them in and about the (called) two famous universities in England, Oxford and Cambridge, to them, and every of them, whether tutors or schollers, batchellors and Masters of Arts, Batchellours of Divinity and Doctors of Divinity, or to any other member of that body, that hath sprung from these the two, so called, well heads of divinity, either such who keeps their station and trading there, or such who have learned their arts, sciences and trades there, and now improves them to their best advantage in the nation of England or elsewhere. Being a brief rehearsal of some of the words and terms which have for several ages been used, and now are used in their chief schools of learning and universities, contained in their seven liberal arts, ... / By George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 130KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23138</idno><idno type="EEBO-CITATION">99890761</idno>
+  <idno type="VID">193510</idno>
+  <idno type="EEBO-PROQUEST">2240904960</idno>
+  
+            <idno type="OCLC"> 12416294</idno>
+            <idno type="STC">Wing F1884</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[18]</idno>
+            <idno type="STC">ESTC R5507</idno>
+            <idno type="PROQUEST">ocm99890761</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890761e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193510)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A primer for the schollers and doctors of Europe, but especially to them in and about the (called) two famous universities in England, Oxford and Cambridge, to them, and every of them, whether tutors or schollers, batchellors and Masters of Arts, Batchellours of Divinity and Doctors of Divinity, or to any other member of that body, that hath sprung from these the two, so called, well heads of divinity, either such who keeps their station and trading there, or such who have learned their arts, sciences and trades there, and now improves them to their best advantage in the nation of England or elsewhere. Being a brief rehearsal of some of the words and terms which have for several ages been used, and now are used in their chief schools of learning and universities, contained in their seven liberal arts, ... / By George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Early works to 1800.</term>
+               <term type="topical_term">Learning and scholarship --  Miscellanea --  Early works to 1800.</term>
+               <term type="topical_term">Universities and colleges --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193510:1"/>
+            <p>A PRIMER for the Schollers and Doctors of EUROPE, But especially to them in and about the (called) Two famous Universities in <hi>England, Oxford</hi> and <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> To them, and every of them, whether Tu<g ref="char:EOLhyphen"/>tors or Schollers, Batchellors and Masters of Arts, Batchellours of Divinity and Doctors of Divinity, or to any other Member of that Body, that hath sprung from these the two, so called, well heads of Divinity, either such who keeps their station and trading there, or such who have learned their Arts, Sciences and trades there, and now improves them to their best advantage in the Nation of <hi>England,</hi> or elsewhere.</p>
+            <p>Being a brief rehearsal of some of the words and terms which have for several ages been used, and now are used in their chief Schools of learning, and Universities, contained in their seven Liberal Arts, i. e. <hi>Grammer, Logick, Rhetorick, Musick, Arithmetick, Geometrie, Astronomy,</hi> together with that you call <hi>Geographie, Ethicks, Physicks, Meta<g ref="char:EOLhyphen"/>phisicks, Theologie and Medicine.</hi>
+            </p>
+            <p>By <hi>George Fox.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Aldersgate,</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:193510:2"/>
+            <pb n="1" facs="tcp:193510:2"/>
+            <head>TO THE READER:</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ere the Enlightened Reader whose eyes are o<g ref="char:EOLhyphen"/>pened with the Light, may discern whether or nay you be not all in the wisdom of mans teaching that teacheth words, which all your seven Arts and Sciences, terms and names comes from; and what was the root they all sprung from, was it not from the wisdom of man which is below, and the words that it doth teach? This is written to you to ex<g ref="char:EOLhyphen"/>amin and search out if you be among that number which have that spirit that searcheth all things, yea, the deep things of God, <hi>1</hi> Cor. <hi>2.10.</hi> but if they have not that spi<g ref="char:EOLhyphen"/>rit, to examine and search with, and with it to read this Primmer, and to answer to every particular thing and word in it contained, according to the true and full intent of eve<g ref="char:EOLhyphen"/>ry particular querie herein inserted, then let all Grammari<g ref="char:EOLhyphen"/>ans, Logicians, Rhetoritians, Musicians, Arithmeticians, Geometricians, and Astronomers, Physicians, Tutors, Schol<g ref="char:EOLhyphen"/>lers, Batchellors of Arts▪ Masters of Arts, Batchellors of Divinity, and Doctors of Divinity, Chancellors and Vice-Chancellors, or any other member of this Body that hath sprung from these two Well-heads, think and judge them<g ref="char:EOLhyphen"/>selves to be among the number, which the spirit of Truth
+<pb n="4" facs="tcp:193510:3"/> hath spoken of in <hi>Isaiah 29.14. Therefore behold I will proceed to do a marvellous work amongst this people, even a marvellous work and a wonder, for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.</hi>
+            </p>
+            <p>These seven Arts, Names, Terms and words have been their holes and dens where they have been hidden, and there they have hid themselves from the ignorant, These Queries are to call them out into the field, that every one may see their garment, that they may give answer to every one of these words, names and things, and their root and first Authour of them, let them come out now to little children, these great Champions which hath been clad with Goliahs armour, little <hi>Davids</hi> are risen, and with their slings and their bags full of stones: So this is a call for every uncircumcised Philistine to come forth into the open field and there to be tried with little <hi>Davids,</hi> who have the bags and the slings, and the stones, which is the power of God.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:193510:3"/>
+            <head>Ye Schollers and Doctors ansewr me these QƲERIES.</head>
+            <p n="1">1. <seg rend="decorInit">W</seg>Hat is Grammer, and what is the word Grammar in it self?</p>
+            <p n="2">2. What is a <hi>Noun</hi> in it self, and what was the first rise of it, and who was the first Author of it, and by whom?</p>
+            <p n="3">3. What is a <hi>Pronoun</hi> in it self, and what is the word in it self, and who was the first Author of it, and by whom it came?</p>
+            <p n="4">4. What is a <hi>Verb,</hi> and the word <hi>Verb,</hi> and out from whom had it its root, and by whom?</p>
+            <p n="5">5. What is a <hi>Participle,</hi> and what is it in it self, and by whom came, and out of what ground, and why are these de<g ref="char:EOLhyphen"/>clined, and why is the word called declined, who was the first rise and author of it, and by whom it came.</p>
+            <p n="6">6. And why is the word called <hi>Adverb,</hi> and what is an <hi>Adverb,</hi> the word it self, and who was its rise, and why do you call the word <hi>Conjunction,</hi> and who was its rise? and why the word <hi>Preposition,</hi> and who was its rise? And who was the Author of the word <hi>Interjection,</hi> and what are these two words in themselves, and whether or no these are not come up by the art of men and invention?</p>
+            <p n="7">7. What is the word <hi>Vowel</hi> in it self, and what was the word <hi>Vowel,</hi> and what is the word <hi>Dipthong,</hi> and who was the Author of these, and where are they called by any such names in Scripture, so who was the Author of these names, and who gave them, and what are these names in themselves, and of themselves, and came they not from the art of men, yea, or nay?</p>
+            <p n="8">8. What is the word <hi>Substantive</hi> in it self? and what is the word <hi>Adj<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ve</hi> in it self? and what is the <hi>Article</hi> in it self? And what is the word <hi>Termination</hi> in its self, and what was the first author, and ground and rise of these words, and whe<g ref="char:EOLhyphen"/>ther or nay they are not in the art and wit, out of that na<g ref="char:EOLhyphen"/>ture which hath been since the fall?</p>
+            <p n="9">
+               <pb n="4" facs="tcp:193510:4"/>9. And why do you call the words <hi>Nominative, Genitive, Dative, Accusative, Vocative,</hi> and <hi>Ablative,</hi> and what are these words in themselves, and from what root had these words their rise, and all the rest above mentioned, and what was it that figured forth all these words above mentioned, and who was the first Author of them?</p>
+            <p n="10">10. And why do ye call the word <hi>masculine, feminine,</hi> and <hi>neuter,</hi> and <hi>epicine?</hi> And what was the ground of these words in themselves, what are they?</p>
+            <p n="11">11. And why do you use the word <hi>declention,</hi> and what is in the word it self, and what was its root?</p>
+            <p n="12">12 And why the words <hi>positive, comparative,</hi> and <hi>superla<g ref="char:EOLhyphen"/>tive,</hi> and what be these words, as they are words, of what au<g ref="char:EOLhyphen"/>thor and root came they from, and who gave them these tearms first, who was the first rise, and by whom?</p>
+            <p n="13">13. And why these words, <hi>primative, demonstrative, relative, derivative, Possessive, indefinite, reciprocal,</hi> and what be these words themselves, and what was the root?</p>
+            <p n="14">14 And why the words <hi>simple,</hi> and why <hi>compound,</hi> and what is the word and its root, and its author?</p>
+            <p n="15">15. And why the word; <hi>mood</hi> and <hi>tence?</hi> and why the word <hi>personal</hi> and <hi>impersonal,</hi> and why <hi>deponent,</hi> and what is these words, and what was the author and root and ground of them?</p>
+            <p n="16">16. Why the <hi>indicative, imperative, optative, potential, sub<g ref="char:EOLhyphen"/>junctive,</hi> and <hi>infinitive,</hi> and what are these words in themselves, and what was their root and author?</p>
+            <p n="17">17 Why the words <hi>presenttence, preterimperfectence, preterper<g ref="char:EOLhyphen"/>fectence, preterpluperfectence,</hi> and <hi>futuretence,</hi> what are in these words themselves, and what was their root and author?</p>
+            <p n="18">18. And why the words <hi>gerunds</hi> and <hi>supines,</hi> and what are these words, and what is the author of them, and what was their root?</p>
+            <p n="19">19. And what are these words, <hi>transitive,</hi> and <hi>intransitive,</hi> and <hi>inceptive?</hi> why these words, and what is their root, and how came they first forth, and who was their first author, come ye that say ye are learned men, answer?</p>
+            <p n="20">20 And what are these words <hi>orthographie, etymologie, Syn<g ref="char:EOLhyphen"/>taxis, prosodia,</hi> and what are these words themselves?</p>
+            <p n="21">21. Why <hi>semi-vowels, liquids, mutes?</hi> and why these words
+<pb n="3" facs="tcp:193510:4"/>
+               <hi>ortheopia, traulism, pleteasm, isconites?</hi> and what be these words, and what be the root of them, and of whom were they first learned?</p>
+            <p n="22">22. And why a <hi>comma,</hi> a <hi>colon,</hi> a <hi>period,</hi> a <hi>parenthesis, intro<g ref="char:EOLhyphen"/>gation, exclamation,</hi> and <hi>hyphen, species, analogie, anomilie, proper</hi> and <hi>common, case</hi> and <hi>gender, collective;</hi> and what be the words, and what was their author and root?</p>
+            <p n="23">23. And why these words <hi>fictions, interrogatives, redditives, in<g ref="char:EOLhyphen"/>definites, relative, cardinals, ordinals, distributives, partitives, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lti<g ref="char:EOLhyphen"/>plicative, proportional, ponderal, verbal, patrial, gentile, patronimic, de<g ref="char:EOLhyphen"/>minitive, possessive, denominative material, local, participial, adverbial?</hi> and what are all these, and what is the author of them all, and who was he, and what are their roots?</p>
+            <p n="24">24. And what are these words <hi>copulatives, suspensives, disjun<g ref="char:EOLhyphen"/>ctives, causals, discretives, conditionals, exceptives, interrogatives, dubi<g ref="char:EOLhyphen"/>tatives, illatives, continuatives, consessives, adversatives, redditives, ele<g ref="char:EOLhyphen"/>ctives, diminitives, expletives</hi> or <hi>completives, prepositives, subjunctives, post positives, encliticals</hi> or <hi>inclinatives;</hi> what are all these words, and what was the author of these words, and who and what are the root, and what are they in themselves?</p>
+            <p n="25">25. And what are these words <hi>apposition</hi> and <hi>composition,</hi> and in them what is your end?</p>
+            <p n="26">26. And why these words used in a Grammer, <hi>prosthesis, e<g ref="char:EOLhyphen"/>penthesis, Syncope, paragoge, apocope?</hi>
+            </p>
+            <p n="27">27. And what these words <hi>di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>resis, Synaeresis, metathesis antithe<g ref="char:EOLhyphen"/>sis,</hi> or <hi>antistaechon, tmesis, enallage, archaismus, metaplasmus,</hi> &amp;c?</p>
+            <p n="28">28. And wherefore these words <hi>appositio, Syllepsis, prolepsis, Zeugma, Synthesis, antiptosis, Synecdoche, ellipsis, pleonasmus, asyndeton polyfindeton, anastrophe Synchysis, hypallage, hellenismus?</hi>
+            </p>
+            <p n="29">29 Why <hi>accent, transposition, attraction, concision, idiome,</hi> what are these words, and from what was their rise?</p>
+            <p n="30">30. And what be all these termes which you use in your Grammer, <hi>spondaeus pyrrhychius, Trochaeus, iambus?</hi>
+            </p>
+            <p n="31">31. And why these words <hi>molossus, tribrachus, dactylus, Ana<g ref="char:EOLhyphen"/>paestus, bacchius, antibacchius, amphimacer, amphibrachus?</hi>
+            </p>
+            <p n="32">32 And what are these words <hi>Synalaepha, eclipsis, synaeresis, Diaeresi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>caesura?</hi>
+            </p>
+            <p n="33">33. What are these words, <hi>Monocolon, dicolon, tricolon, polico<g ref="char:EOLhyphen"/>lon,</hi>
+               <pb n="8" facs="tcp:193510:5"/> and what was the root of these words, and what are the words?</p>
+            <p>And why <hi>Distrophon, tristrophon, tetrastrophon, Pentrastroph<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, hemistichon distichon, tetrasticon, hexastichon, eteestichon, emarostichon?</hi> And what are these words, and who was the author of these words, and from what ground and root came they, and whether they were given forth from the spirit of God, or the words of mans wisdom, answer ye that are accounted learned wise men, There is three feet for you to stand upon them if you can?</p>
+            <div type="part">
+               <head>Logick.</head>
+               <p>WHat is the word <hi>Logick</hi> in it self?</p>
+               <p n="2">2. What a <hi>theam,</hi> a single <hi>theam,</hi> and a <hi>compound theam?</hi> what is a universal, and what a <hi>special theam,</hi> and what is <hi>abstract</hi> and <hi>concrete?</hi>
+               </p>
+               <p n="3">3. What is an <hi>individium,</hi> and an <hi>individium vagum, invidium accidental,</hi> and <hi>substantial,</hi> and what is a <hi>categorie?</hi>
+               </p>
+               <p n="4">4. And what the word <hi>praedicable,</hi> and why five <hi>praedicables, genus, species, differentia, proprium, accidens?</hi> what are these words, and what was the root and author of them? and what is <hi>genus s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mmum</hi> and <hi>genus intermedium?</hi> what are these words, and their author and root, and whether or no all these words are not in the art of man, and the words of mans wisdom, yea or nay? and why <hi>species intermedia,</hi> and what is it?</p>
+               <p n="5">5. Why the word <hi>praedicament,</hi> what are these words which you call ten <hi>praedicaments, substantia, quantitas, qualitas, relati<g ref="char:EOLhyphen"/>va, actio, passio, quando ubi situs, habitus?</hi> what are these words and what are their root; are they not the wisdom of words of mans wisdom, and what are these words, <hi>collateral, iden<g ref="char:EOLhyphen"/>tity</hi> of <hi>disjunctive subordination, causal indentity, cohesive iden<g ref="char:EOLhyphen"/>tity, and accidental identity?</hi> and the words <hi>subordinate, co-or<g ref="char:EOLhyphen"/>dinate,</hi> and what <hi>generical disjunction, specifical distinction, and individual distinction,</hi> and what is the ground these words came from, and their author and root, and who, and by whom.</p>
+               <p n="6">
+                  <pb n="9" facs="tcp:193510:5"/>6. why the words, <hi>continuae quantitas,</hi> and <hi>discreta quantitas</hi> and these words what are they, and the root what is it, and theirs was whom.</p>
+               <p n="7">7. Why the word <hi>Propositio, Subjectum,</hi> and <hi>Atributum,</hi> and <hi>indefinite?</hi> and why <hi>Subcontrariae and Subalternae,</hi> what be these words, and what was their ground, and who was their Author?</p>
+               <p n="8">8. And what are these words <hi>Propositio, Categorica &amp; Con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ingent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> what are these words, and what was their root, and who was their Author, and by whom came they?</p>
+               <p n="9">9. And why the words <hi>Simplex per accedens,</hi> &amp; <hi>per contra<g ref="char:EOLhyphen"/>positionem?</hi> and what were these words, and their author who was, and what was he? and why the word <hi>propositio, Hypothetica,</hi> and what is the word, and what is the Author, and what is the root?</p>
+               <p n="10">10. What is a <hi>Syllogism,</hi> and why these tearms in a <hi>Syllogism, Major, Minor,</hi> and <hi>Medius,</hi> and who was the Author of them, and what was the root of them, and what is the word <hi>Termini,</hi> and what was its root, and from what did all these spring above mentioned, you who say you are learned men, bring out your arguments and strong reasons, now in the day, that all things may be tried, and the roots from whence all words comes, the vvords that are spo<g ref="char:EOLhyphen"/>ken from the vvisdome of men, as it hath taught them, and the vvords that are spoken from the holy Ghost?</p>
+               <p n="11">11. What is an <hi>accident?</hi> 12. What is the Efficient cause? 13. What is the <hi>Emanative cause;</hi> 14. What is the active cause? 15. What is the <hi>Immanent cause?</hi> 16. What is the <hi>Transient cause?</hi> 17. What is <hi>causae per se?</hi> 18. What is <hi>causa per acci<g ref="char:EOLhyphen"/>dens?</hi> 19. What is the <hi>Procatarctick cause?</hi>
+               </p>
+               <p n="12">12. What is a <hi>Subject</hi> and vvhat is an <hi>Adjunct?</hi> and vvhat is <hi>Analogy,</hi> vvhat is <hi>Identity,</hi> What is <hi>Numerical identity,</hi> and vvhat is <hi>Subordinate,</hi> and <hi>Co-ordinate Identity?</hi>
+               </p>
+               <p n="21">21. What is <hi>Privation,</hi> vvhat is a <hi>Synonyma</hi> or <hi>Univoke.</hi>
+               </p>
+               <p n="22">22. What is a <hi>Hemonyma?</hi> What is a <hi>Predicate,</hi> vvhat is <hi>Hypothetica,</hi> vvhat is a <hi>Disjunctive</hi> an <hi>Adversative,</hi> a <hi>Relative?</hi> &amp; vvhat is the cause of an <hi>Accident,</hi> &amp; the cause of all <hi>Accidents,</hi> &amp; vvhat is the cause of all these <hi>Causes?</hi> and vvhat is the cause of all these <hi>Words,</hi> and vvhat is the root, and vvhether or no they be not superfluous, and from the vvisdom of the flesh, and vvhether or no the holie Ghost doth not speak in plainer vvords then these be, and vvhether or no they vvere not from the vvisdome of the Heathens, and they vvere not their root, ansvver yea or nay?</p>
+               <p n="23">
+                  <pb n="10" facs="tcp:193510:6"/>23. What is a <hi>Contingent Enuntiation,</hi> and vvhat is <hi>definit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> vvhat are all these vvords, and vvhether they did proceed from the darknesse, and not from the holie Ghost, and who vvas the author of these vvords, and vvhat vvas their first ground and root, bring it forth?</p>
+               <p n="24">24. And again, vvhich vvas once queried before, vvhat is a <hi>Syl<g ref="char:EOLhyphen"/>logism,</hi> vvhat is the <hi>major,</hi> vvhat is the <hi>minor,</hi> and vvhat is the <hi>me<g ref="char:EOLhyphen"/>dius,</hi> vvhat are those vvords everie one in particular as they are in themselves, and their author and root, vvhat is it? and vvho vvas he?</p>
+               <p n="25">25. What is <hi>Barbara, Celarent, Darii, Cesare, Camestres fastino, Ba<g ref="char:EOLhyphen"/>roco, Darapti felapton, difamis, datisi, Bocardo, ferison?</hi> What be all these vvords, and vvhether the Wisdome of the flesh vvas not their author, and the root What was it?</p>
+               <p n="26">26. What is an <hi>Induction,</hi> an <hi>Etymeme,</hi> what is an <hi>Hypothetical Syllogism?</hi> from whence comes these words, and what be they, and who was the author of them, and what was the ground they first rose from?</p>
+               <p n="27">27. What is a <hi>Categorical Syllogism,</hi> what is a <hi>Dilemma,</hi> what is a <hi>Sorite</hi> and what is a <hi>Dialectical fylogism</hi> what are all those words, and who was their first rise, and from what power came they, from light or darknesse, yea or nay? and who was their first au<g ref="char:EOLhyphen"/>thor and rise, Heathens or Saints, ansvver them?</p>
+               <p n="28">28. What is a <hi>Probleme,</hi> vvhat is a <hi>Concentaneous, and discen<g ref="char:EOLhyphen"/>taneous</hi> argument? what is <hi>axiome,</hi> what is <hi>Thesis,</hi> and what is <hi>Hypothesis?</hi> what be all these words, and Who was the first sette<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of them up?</p>
+               <p n="29">29. What is <hi>Sophisim?</hi> what is <hi>Amphybolie?</hi> what is <hi>Elench?</hi> what is <hi>Analitical, Syntheical, Categorematical, Sincaregorema<g ref="char:EOLhyphen"/>tecal?</hi> what are all these words, and what was the author of them, the wisdom of the flesh or the wisdome of God? what was the ground and root they arose from, and what is the word <hi>Syllogism,</hi> who was the first inventer of it, was it from the inspiration or invention, or doth invention bring men into reason, or destroy it, or doth any thing bring men into reason but that which doth inspire?</p>
+               <p n="30">30. What is <hi>Abstract,</hi> and what is <hi>Concrete</hi> and <hi>Subaltern,</hi> and <hi>Method?</hi>
+               </p>
+               <p n="31">31. What is a <hi>Proposition, Antecedent, Consequent, transmutative, Es<g ref="char:EOLhyphen"/>ential Integral, homogeneum Heterogeneum,</hi> what be every one of these words, and what be the root, or what is the rise, and what is that
+<pb n="11" facs="tcp:193510:6"/> which gives them their faith? <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd whether or no they are words that must be fulfilled &amp; cannot be broken, and if so, what is it that fulfille, and who was the author of them, and first giver of them forth? Answer me if you be in that which is before words was given forth, or else let your mouth be stopped; is there not a ground where the words of confusion comes forth, is there not words that mans wisdome doth teach? and what is that which distinguisheth that teaching, from the teaching which teacheth the words of truth, yea or nay? and if it be so, if you become into that, then Answer me.</p>
+               <p n="32">32. What is a <hi>Canon a Concomitant</hi> a <hi>Cohaesive,</hi> an <hi>Hypostatical</hi> a <hi>Causal,</hi> an <hi>Illustration,</hi> what a <hi>definite,</hi> an <hi>Indefinite,</hi> what an <hi>Equi<g ref="char:EOLhyphen"/>valent?</hi>
+               </p>
+               <p n="33">33. What are all these words, <hi>Paronima, comcominative, recipro<g ref="char:EOLhyphen"/>call, Typical, Sacramental, Exclusive, Exceptive, Co-operative?</hi> who was the first author of all these words, and what was their first ground and root, and what are all these words in themselves, and whose were they, and are they; are they given forth from the in<g ref="char:EOLhyphen"/>vention and wisdome of men, or were the spirit of God the root of them? me ye answer, if you understand your own body; what body are you, and from what body these come from, the body of Christ yea or nay? And whether that which doth not come from the body of Christ, and is not of him, and from him, will not rea<g ref="char:EOLhyphen"/>son destroy and put an end to, and will not it destroy reason, that reason doth destroy and make an end of, Answer me this, ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or no?</p>
+            </div>
+            <div type="part">
+               <head>Some Questions about Rhetorick.</head>
+               <p n="1">1. VVHat is <hi>Rhetorick?</hi>
+               </p>
+               <p n="2">2 What is a <hi>Trope</hi> in which it is said that two things are to be considered, the species and the affections? and why are the species of Tropes 4?</p>
+               <p n="1">1. <hi>A Metonimy,</hi> an <hi>Irony,</hi> a <hi>Metaphor</hi> and a <hi>Synecdoche,</hi> what be all these words, and what is the ground from whence all these words, and what are all these words in themselves, as they are words?</p>
+               <p n="3">
+                  <pb n="12" facs="tcp:193510:7"/>3. What are these five words which you call the affections? a <hi>Trope, Cataechresis, Hyperbole, Metalepsis, Litotes, Allegorie?</hi> from whence came in these words, and what their root, and what be in these words, and from what spirit did they come?</p>
+               <p n="4">4. And what is <hi>Antonomasia, Onomatopaeia, Antiphrasis, Charien<g ref="char:EOLhyphen"/>tismus, Astismus, Sarcasmus, Paraemia, Anigma,</hi> and several more who was the root of them all, and these words, what are they? and what was the wisdome they came from?</p>
+               <p n="5">5. What is a <hi>figure</hi> which you say in <hi>Greek</hi> is <hi>Scema,</hi> and what is this word, and are your figures to be fulfilled, and are they given forth from that spirit that gave forth Scriptures?</p>
+               <p n="6">6. What is this figure <hi>Metaplasmus,</hi> of which is said there are four kinds?</p>
+               <p n="7">7. And what is <hi>Synalaepha, Ectlipsis,</hi> which is called the first kind?</p>
+               <p n="8">8. And what <hi>Prosthesis, Aphaeresis, Epenthesis Cyncope, paragoge, Apocope,</hi> which in your <hi>Grammer</hi> ye call the figures of a word?</p>
+               <p n="9">9. What is <hi>Diaeresis, Synaeresis,</hi> which is called the third kind, and your fourth kind is called <hi>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nesis, Metathesis, Antithesis, Dia<g ref="char:EOLhyphen"/>stole, Systole,</hi> from whence had you all these words? what was their ground and rise and root, was not it earthly, and did not i<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wisdome teach them to speak them forth, are they the words of Scripture or of the Spirit that gave them forth (that is) the Scripture, or are they words that is to be confounded with that spirit?</p>
+               <p n="10">10. What be these figures, <hi>Epizeuxis, Anadiplosis Anaphora, E<g ref="char:EOLhyphen"/>pistrophe, Symploce, Epanalepsis, Epanados, Paranomisia, Poliptoton?</hi> and from whence comes all these words, and what is every one of these words, and what is the root of every one of these words, and what is it they did proceed from?</p>
+               <p n="11">11. And what are these figures, <hi>Climax, Antanaclasis, Antithesis Ploce, Paregmenon, Synaeceiosis, Oxymozon, Synthesis, Hendiadis, Hy<g ref="char:EOLhyphen"/>pallage, Hyperhaton, Ellipsis, pleonasmus, Asyndeton, Poly Syndet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Hysterologia, Zeugma, Hellenismus, Antiptosis;</hi> and these above you call the figure of a word?</p>
+               <p>VVhat be all these words in themselves, and what was the root they did proceed from; and from whence had that its root, and who was the first author of them all; was he in the wisdome of God, or in his own invention, or the wisdome below; yea or
+<pb n="13" facs="tcp:193510:7"/> nay? so answer me, how came they up, and by what and whom they came?</p>
+               <p n="12">12 And what are these which you call the figures of a sentence, <hi>Ecphonesis, Periphrasis, Parenthesis, Epiphon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ma, Parathesis, Dia<g ref="char:EOLhyphen"/>typosis, Synonymia, Horismos, Parrhesia, Apostopesis, Apostrophe Para<g ref="char:EOLhyphen"/>diastole, Parechesis, Erotesis, Hypotyposis, Metabasis?</hi>
+               </p>
+               <p>And what be all these words? and what is the root of them all? and what be they all every particular word as they are in them<g ref="char:EOLhyphen"/>selves? and what did they spring from? that will change, or from that which doth not change? And you say a figure in a sen<g ref="char:EOLhyphen"/>tence is either in <hi>Logismo</hi> or <hi>Dialogismo,</hi> what is <hi>Logismus</hi> and <hi>Dialogismus?</hi>
+               </p>
+               <p>What is <hi>Apostrophe</hi> and <hi>Prosopopoeia?</hi> and what is <hi>Aporia Ana<g ref="char:EOLhyphen"/>caenosis, Prolepsis, Hypophora, Epitrope, Synchoraesis?</hi> These words what be they all? and who was the first beginner of them? were they invented, or imagined, or revealed by the Spirit of God, or are they words that make men wise in the wisdom of the world, or make them wise in the wisdom of God, yea or nay? or were they given <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orth from the wisdom of God, yea or nay? or from the in<g ref="char:EOLhyphen"/>venter? Answer, that things may come out to the light; what was their Author and Root, and from whence had they their rise?</p>
+               <p n="13">13. What is <hi>Metonymia Efficientis, Metonymia Effecti, Subjecti, Adjuncti, Metonymia Materiae, Metonymia Instrumenti, Ante<g ref="char:EOLhyphen"/>cedentis, Metonymia Consequentis, Metonymia Conexi</hi> and <hi>Metony<g ref="char:EOLhyphen"/>mia Finis?</hi> and <hi>Metonymia formae?</hi> what be these words? and from whence? from the Ayre or from the life, are they the words that are put into the mouth by the Spirit of God, or are they words that mens wisdom doth teach; So Answer me from what ground and Root they sprang?</p>
+               <p n="14">14. What is <hi>Synecdoche Specei, Synecdoche partis, Synecdoche, Generis, Synecdoche totius, Synecdoche Numeri?</hi> And from whence had you all these words, their rise, and what is their rise? and wh t is the rise? and what be the words and their ground? and wheth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r or no it is not from that, that keeps people under a cloud from th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t which should give them an understandin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, in the igno<g ref="char:EOLhyphen"/>rance, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re wisdoms teaching hears words which is earthly, and others l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arning that be earthly and not spiritual? is this yea or nay so?</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:193510:8"/>
+               <head>Questions, concerning some of your termes, which you use in one of the seven Arts, cal<g ref="char:EOLhyphen"/>led Arithmetick.</head>
+               <p n="1">1. WH<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is <hi>Arithmetick,</hi> what is the extraction of roots, and what is the greater <hi>Diagonal,</hi> the lesser <hi>Diagonal.</hi>
+               </p>
+               <p n="2">2. What is the square root, the <hi>Cube</hi> root, the squared sq<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <hi>Sursolids</hi> squares of <hi>Cubes,</hi> squares of <hi>Cubes, Second surd solids,</hi> squares of squared sq<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>res. <hi>Cubes</hi> of <hi>Cubes,</hi> squares of <hi>Surd Solids, Surd Solids</hi> of <hi>Surd Solids?</hi>
+               </p>
+               <p n="3">3. What are these words <hi>Algebra,</hi> and what is a right lined <hi>Parellelipedon</hi> and an <hi>Inaequaliter,</hi> and what the greater and the lesser <hi>Segment</hi> or <hi>Quotient,</hi> who was the first Author of all these words, and what are their root, what hath born them, and these words, what are they, and whether or no they were the words that did proceed from the life of God, or the ear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hly wisdom that hath taught them below; so the words in themselves what are they, and who was the first Author of them, and whether or no they be sutable to the life, or that dark airy inventing part that pri<g ref="char:EOLhyphen"/>sons it?</p>
+            </div>
+            <div type="part">
+               <head>Some Questions about your Art which you call <hi>Geometrie.</hi>
+               </head>
+               <p n="1">1. WHat is <hi>Geometry?</hi>
+               </p>
+               <p n="2">2. What is a point?</p>
+               <p n="3">3. What is a line; and what is its limits?</p>
+               <p n="4">4. What is a superficies, and what are its extreams?</p>
+               <p n="5">5. What is an Angle, a plain Angle an <hi>obtuse</hi> Angle, and an <hi>Acute</hi> Angl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</p>
+               <p n="6">6. What is <hi>Perpendicular?</hi>
+               </p>
+               <p n="7">
+                  <pb n="15" facs="tcp:193510:8"/>7. What is a figure, what is a circle or circumference.</p>
+               <p n="8">8. What is a center, a <hi>Diameter,</hi> and what the <hi>Diameter</hi> of a circle, and what a <hi>Semi-circle,</hi> and what the <hi>Section</hi> of a circle?</p>
+               <p n="9">9. What are right lined SIDED and many SIDED figures?</p>
+               <p n="10">10. What is a Tryangle, and what an <hi>Equilateral</hi> Tryangle?</p>
+               <p n="11">11. What is an <hi>Isoscoles, a Scalenium an Orthogonium,</hi> an <hi>Am<g ref="char:EOLhyphen"/>bligonium</hi> and an <hi>Oxigonium.</hi>
+               </p>
+               <p n="12">12. What is a Quadrat a <hi>Rhombus, a Rhomboides?</hi>
+               </p>
+               <p n="13">13. What are all your four SIDED figures called <hi>Trapezia</hi> or tables?</p>
+               <p n="14">14. What is a Paralell, and <hi>Parallelogram?</hi>
+               </p>
+               <p n="15">15. What is a <hi>spaericall</hi> and a <hi>Gonicall</hi> body and what is a <hi>Teres.</hi>
+               </p>
+               <p n="16">16. What are <hi>Globes, Piramis, a Column</hi> and a <hi>Cilindrus,</hi> &amp;c? What be all these termes and names and words, and whether or no they be not words of mens wisdom, art and inventions, that he hath sought out since the transgression, answer me if any of you, have the measuring line, by which the earth is measured, and the waters with this line can ye measure? And where do the Scri<g ref="char:EOLhyphen"/>ptures of truth that speaks of measuring speak such words, termes and phrases as is above mentioned, and what be every one of these words, and what be every of their rootes, and whether or no they were not in the imagination? for the branches you have discovered, and they are to be gathered in every town and and street, and Allyes you may gather bundles of them, therefore the root that hath born and brought forth all these expressions and phrases what is it? and what be the words?</p>
+               <p>And came they from the wisdom that is below, earthly, sensual and Devillish, (that doth teach) or from the wisdom which is from above that the world is comprehended withall, which was before the world began which measures, comprehends time, age, Sea, and Land, and fathoms the world as a span, whose wisdom speaks; and of her children is justified who love her, and are nourished and cherished by her.</p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:193510:9"/>
+               <head>Some Questions of your termes of <hi>Geo<g ref="char:EOLhyphen"/>graphie.</hi>
+               </head>
+               <p n="1">1. VVHat is <hi>Geographie?</hi>
+               </p>
+               <p n="2">2. How is it the eye and light of History? and how thereby do other Mathematical sciences especially profit those that are studious in Philosophy contemplative (as you say of them?)</p>
+               <p n="3">3. What is a <hi>Globe,</hi> and what the Globe of the earth and wa<g ref="char:EOLhyphen"/>ter is?</p>
+               <p n="4">4. What is the general part of <hi>Geographie?</hi> and what is the spe<g ref="char:EOLhyphen"/>cial part?</p>
+               <p n="5">5. What is its absolute part? and vvhat is its comparitive part?</p>
+               <p n="6">6. What is a real Globe of the earth? and vvhat is a repre<g ref="char:EOLhyphen"/>sentive or painted one?</p>
+               <p n="7">7. What are the accidents of affections of the earthly Globe?</p>
+               <p n="8">8. What is a <hi>Peninsula</hi> or <hi>Chersoness?</hi> What vvas the first that gave all these names? and ansvver these things every one in their particular, and vvhat vvas the root that they sprung from, vvhat be all these vvords as they are vvords, for the branches have dis<g ref="char:EOLhyphen"/>covered themselves, therefore vvhat be the root? Ansvver me.</p>
+               <p n="9">9. What is an <hi>Isthmus?</hi> And vvhat a <hi>Promontorie?</hi>
+               </p>
+               <p n="10">10. What are these imaginary parts of the earth, vvhich not being at all, must yet be supposed to be, vvhich you call the circle immutable, as the <hi>Aequator</hi> and the cirles mutable, as the <hi>Meridian</hi> and <hi>Horrizon?</hi>
+               </p>
+               <p n="11">11. What are the lesser imaginary Circles, as the Tropical of <hi>Cancer</hi> and <hi>Capricorn,</hi> and the Polar either <hi>Arctique</hi> or <hi>Antartick</hi> and the parellel or <hi>Aequidistant?</hi>
+               </p>
+               <p n="12">12. What are the five <hi>zones?</hi> as vvhat is the <hi>Torride zone,</hi> the <hi>Frigid zones,</hi> and the temperate <hi>zones?</hi> Ansvver me vvhat be all these words as they are vvords in themselves? And vvhat be all the root of these vvords? And from vvhat stock do they spring? for your branches have shevved themselves forth; &amp; vvho was the first Author of these vvords? A heathen, a transgressor, or a Saint? <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd vvhether or no they are vvords brought forth by your ovvn
+<pb n="17" facs="tcp:193510:9"/> imaginations and inventions out of the life; so answer me every word as they are in themselves, and the root and author of them, and whether they have not all come from the wisdome below, which is earthly.</p>
+               <p n="13">13. What are the artificial <hi>Parallels?</hi>
+               </p>
+               <p n="14">14. What is a Climat?</p>
+               <p n="15">15. What is a rational, and what a sensible <hi>Horizon?</hi>
+               </p>
+               <p n="16">16. What are the <hi>Aphiscy Priscy Xeterosty,</hi> and what the <hi>Antieci Perieci</hi> and <hi>Antipodes?</hi>
+               </p>
+               <p n="17">17. What is a <hi>Digit?</hi> who was the first inventer of these words, what was his name? from whence had he his rase and his wisdome, and what are all these words above mentioned in them<g ref="char:EOLhyphen"/>selves; and from what ground did they come, what is the root of every one of these themselves, and what are they in themselves, and do they proceed from the spirit of God, and the holy Ghosts teaching, or the wisdome of mans teaching, which is below, earth<g ref="char:EOLhyphen"/>ly? Answer me if the mouth be opened with that which compre<g ref="char:EOLhyphen"/>hends roots, words, grounds, centers, sentences and branches?</p>
+            </div>
+            <div type="part">
+               <head>The termes of Musick.</head>
+               <list>
+                  <head>Concord: Discord.</head>
+                  <item>
+                     <label>Concord:</label> Unisons: Eyghts-fifths, and Thirds.</item>
+                  <item>
+                     <label>Discord.</label>
+                     <p>Seventhes: Ninths:</p>
+                     <p>Fourths and seconds</p>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>There are four Moods.</hi> viz.</head>
+                  <item>Perfickt of the more </item>
+                  <item>Perfickt of the less</item>
+                  <item>Imperfickt of the more</item>
+                  <item>Imperfickt of the less</item>
+               </list>
+               <p>Large Flats</p>
+               <pb n="18" facs="tcp:193510:10"/>
+               <p>Long</p>
+               <p>Brief Sharps</p>
+               <p>Sembrif</p>
+               <p>Minom</p>
+               <p>Crochat</p>
+               <p>Quaver</p>
+               <p>Semi quaver</p>
+               <p>VVho was the inventor of all these words, and who was their au<g ref="char:EOLhyphen"/>thor, and what be every one of these words in themselves and what be every one of their root whose bran<g ref="char:EOLhyphen"/>ches hath appeared; answer me this and who was the first rising of them and whether or no they were all given forth from a transgressor or one out of transgression, or one who was taught of the Holy Ghost or from man whose wisdome was below in the transgession?</p>
+               <pb n="17" facs="tcp:193510:9"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>C</cell>
+                        <cell>Sol. fa: in Alt</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>B</cell>
+                        <cell>Fa. B. me in Alt</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>A</cell>
+                        <cell>La me re in Alt</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Sol. re ut in Alt</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>G</cell>
+                        <cell>Fa ut in Alt</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>E</cell>
+                        <cell>La.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>D</cell>
+                        <cell>La. Sol.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>C</cell>
+                        <cell>Sol fa.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Treble</hi>
+                        </cell>
+                        <cell>B</cell>
+                        <cell>Fa B mi</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>A</cell>
+                        <cell>La me. ry</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>G</cell>
+                        <cell>Sol re ut</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>F</cell>
+                        <cell>Fa ut</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>E</cell>
+                        <cell>La mi</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tener</hi>
+                        </cell>
+                        <cell>C</cell>
+                        <cell>La sol re</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>B</cell>
+                        <cell>Sol fa ut</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>A</cell>
+                        <cell>Fa R mi</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>G</cell>
+                        <cell>la me ri</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>F</cell>
+                        <cell>Sol re ut</cell>
+                     </row>
+                     <row>
+                        <cell>Base</cell>
+                        <cell>E</cell>
+                        <cell>fa ut</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>D</cell>
+                        <cell>la mi</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>C</cell>
+                        <cell>Sol re</cell>
+                     </row>
+                     <pb n="18" facs="tcp:193510:10"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>C</cell>
+                        <cell>Fa ut</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>B</cell>
+                        <cell>mi</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>A</cell>
+                        <cell>re</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>G</cell>
+                        <cell>a mat</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Doble ff fa ut</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Doble E la mi</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Doble D. Sol. re</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Doble C. fa ut.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Some Questions concerning that you call Astronomie.</head>
+               <p n="1">1. VVHat is <hi>a Sphaere</hi> or <hi>Orbe</hi> right or oblique?</p>
+               <p n="2">2. What is an <hi>Axle,</hi> and what are <hi>Poles?</hi>
+               </p>
+               <p n="3">3. What are the three <hi>Axles</hi> with their <hi>Poles?</hi>
+               </p>
+               <p n="4">4. What is <hi>Zodiack</hi> and <hi>Horizon?</hi>
+               </p>
+               <p n="5">5. What are the two sorts of feigned <hi>Circles,</hi> and that you call the greater <hi>Circles?</hi>
+               </p>
+               <p>And what is the <hi>Equinoctial,</hi> the <hi>Zodiack,</hi> the <hi>Colures,</hi> the <hi>Horizon</hi> the <hi>Milkie cirkle?</hi> what be all these words things and names, and words in themselves, and what are the words? and who was their root and author from whence they came, and who was it?
+<pb n="19" facs="tcp:193510:10"/> a spiritual man or a transgressor? So what is every word in it selfe, and thing in it selfe, and root that bore it? shall not the root perish, the branch perish, and they that trust, live and shadow themselves in these branches which from the root doth come, pe<g ref="char:EOLhyphen"/>rish together with the root and branches; Answer me if that mouth be opened that comprehends and knowes every root, and what branches they bring forth? what is the root of the wisdome of men that will teach words, which words the things of God are not spoken in it; in the words the Holy Ghost teacheth? These things before mentioned answer me, but whether all these words do not come from them that are not covered with the spirit of God, and so be in the dark.</p>
+               <p n="7">7. What is the <hi>Equator,</hi> and what a Civil and a natural day?</p>
+               <p n="8">8. VVhat are equal and unequal hours, and how came particu<g ref="char:EOLhyphen"/>lar hours to be given to particular Planets, and what is a Planet? and which is the Suns day; and which Moons day, which Tues<g ref="char:EOLhyphen"/>day and which <hi>Mars</hi> his day, which weddensday or <hi>Mercuries</hi> day, which Thursday or <hi>Jupiters</hi> day, which Friday or <hi>Ʋenis</hi> day, and which Saturday or <hi>Saturns</hi> day?</p>
+               <p n="9">9. VVhich is <hi>Januaries</hi> moneth, which <hi>Februaries</hi> moneth, which is <hi>March</hi> his moneth, which <hi>Aprils,</hi> moneth, which <hi>Mays</hi> moneth, which <hi>Janes,</hi> moneth, which <hi>Julies,</hi> and which <hi>Augusts</hi> moneth? And why are the other four moneths called <hi>September,</hi> and not the seventh moneth? <hi>October</hi> and not the eight moneth? <hi>November</hi> and not the ninth moneth▪ <hi>December</hi> and not the tenth moneth? who was the first author, and what was the first root that bore all these things and brought them forth, that the branches hath now appeared in this day, that are seen in the time of day light? who was the inventer of all the words and things Names and these hours, and these Names to dayes and moneths, how have they come up amongst you, that are called Christians, who vvas your Father that taught you them? the Apostles said they had not many fathers, but he had begotten them; vvho was the first father of all these vvords and names and things, ye that professe your selves to be vvise, and learned men and Schollars, and are Novices and fools, ansvver me the root of every one of these branches, vvho vvas it and vvhat vvas he and his place and his abode, vvhether he be in God or in the World? Ansvver me these things and tell me vvhere thou
+<pb n="20" facs="tcp:193510:11"/> art, and say here am I, that all people may knovv the habitation and house and the father of all these above mentioned?</p>
+               <p n="10">10. What are these vvords vvhich you call the <hi>twelve signes</hi> of the <hi>Zodiacke; Aries, Taurus: Gimini: Cancer: Leo: Ʋirgo: Libra: Scorpius: Sagitarius: Capricornus: Aquarius and Pisces?</hi> And hovv came they to rule these parts of the body according to your <hi>Almanacks?</hi>
+               </p>
+               <p n="11">11. And vvhat is an <hi>Ecclips,</hi> the <hi>Dragons head</hi> and the <hi>Dragons Tall?</hi>
+               </p>
+               <p n="12">12. Whats <hi>Trine, whats a Quartile</hi> and vvhat a <hi>Sextil Aspect?</hi>
+               </p>
+               <p n="13">13. What is the <hi>Conjunction,</hi> and vvhat is the <hi>Opposition</hi> of Planets?</p>
+               <p n="14">14. What are the <hi>twelve houses of Heaven,</hi> vvhich the <hi>Genethia<g ref="char:EOLhyphen"/>licks</hi> or <hi>Mathematicians</hi> do so diligently take notice of in gene<g ref="char:EOLhyphen"/>ration?</p>
+               <p n="15">15. What is a <hi>Horoscope,</hi> vvhat be all these vvords? have they not proceeded all from the transgressors root vvhich lives in the earth and the Ayre and in the imaginary magick art, <hi>Witchcraft, Sorceries, Devinations,</hi> vvho vvas your first father of them, of all these vvords, names and things, did they proceed from the trans<g ref="char:EOLhyphen"/>gressor, or did they proceed from that which vvas before the daies, Stars, Sun &amp; Moon vvas? And which doth proceed from that which commands Sun and Moon and goes over them, and beyond them, by which they are ruled. So tell me what is the ground and root of all these words, names and things, for your branches are come out to the view openly, so give me your knowledge of your root, and every one of these names, things and words, from whence e<g ref="char:EOLhyphen"/>very one of them had their being, and their rise, and from whom and by whom they all sprang? Answer me these ye knowers and understanding ones, and men of wisdome and men of knowledge and men of learning; so you professing your selves; me give an answer if you be learned and taught of that that understands all roots, if not, let your silence acknowledge and speak, and declare the branches you have learned in the root, of which ye know not which branches every passer by hewes, but of your words, and terms and things, what be they?</p>
+               <p n="16">16. What are the <hi>Artick</hi> and <hi>Antartick</hi> Circles, and what are the Summer and winter <hi>Tropicks?</hi>
+               </p>
+               <p n="17">
+                  <pb n="21" facs="tcp:193510:11"/>17. What are the five <hi>Paralells,</hi> and what is a <hi>Zone,</hi> which you say are five in number?</p>
+               <p n="18">18. What is the right and left hand of <hi>Astronomers, Cosmogra<g ref="char:EOLhyphen"/>phers,</hi> and <hi>Poets?</hi>
+               </p>
+               <p n="19">19. What is the motion of the heavenly <hi>Orbs,</hi> and how know you there are ten?</p>
+               <p n="20">20. What are the <hi>Fixed stars,</hi> and what are <hi>Vrsa Major,</hi> and <hi>Vrsa Minor,</hi> and what is the <hi>pole star?</hi>
+               </p>
+               <p n="21">21. What are all your Northern signes, <hi>Drago, Sepheus,</hi> the f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther of <hi>Ardromeda, Bootes Arcturus, Cignus Lyra, Orphei</hi> added to the stars for the benefit of <hi>muses? Delphinus</hi> placed among the stars by <hi>Ario</hi> the <hi>Harper; sagitta</hi> one of <hi>Hercules,</hi> weapons, <hi>Andro<g ref="char:EOLhyphen"/>mida</hi> placed by <hi>Minerva</hi> among the stars, <hi>Hercules Pagasus?</hi> &amp;c. from whence comes all these words, from what ground and root, and who was the first Author of them, and what be the words, and are the words, and who was the first that gave forth all these names, and what was his name, and who was the first that lear<g ref="char:EOLhyphen"/>ned them and of whom? and was he in the transgression, or out of the transgression, and did the Holy Ghost teach these words, and are the things of God to be spoken in these words, yea or nay? or are they words which mans VVisdome hath taught, that is below, earthly, sensual and devil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh; and doth not these names words and things darken the knowledge? so then are they not the words, without the true knowledge; but the words that know<g ref="char:EOLhyphen"/>ledge and understanding and VVisdome that comes to naught, is confounded, and is to perish swims in, so what root came they all from, the branches are discovered; they discover themselves, where the visible swims in; but that which discovers the root is invisible that runs too and fro, through hights and depths, which if you be in this, draw out your weapons and answer me these things, and let me see thy instrument which thou measures with<g ref="char:EOLhyphen"/>all, bring it forth to the light, and come to it into the field vvhich is purchased novv in the day, and thou shalt have a place to bury thy dead.</p>
+               <p n="22">22. VVhat are the stars of the <hi>Zodiack</hi> as <hi>Hiades, Ʋirgiliae,</hi> cal<g ref="char:EOLhyphen"/>led also <hi>pleiades</hi> and <hi>Atlantides,</hi> and what is <hi>Maja</hi> the mother of <hi>Mercurie?</hi> also what is <hi>Castor &amp; Pollux</hi> whom you call most loving bretheren, <hi>Ʋindemiator, Centaurus, Gammedes,</hi> &amp;c.</p>
+               <p n="23">
+                  <pb n="22" facs="tcp:193510:12"/>23. What are the Stars you call <hi>Cetus Erichthonius?</hi> the river <hi>Eriddanus, orion, Hydra Ara</hi> the <hi>Meridional crown?</hi> &amp;c.</p>
+               <p n="24">24. What is <hi>Rosmical Acronical</hi> and <hi>Heliacal?</hi>
+               </p>
+               <p n="25">25. What are the two APSIDES which two <hi>Orbes</hi> of the planets do Encompass?</p>
+               <p n="26">26. What is the <hi>Dragon</hi> of the Moon?</p>
+               <p n="27">27. What is the <hi>Epicycle;</hi> and what is the <hi>Eccliptick</hi> line; and what the <hi>vertical</hi> point; who was the first that gave forth all these names and words to these things, and what was his name; and of whom did he learn, was he not a transgressor, or was he out of transgression, answer me; whether all these words in themselve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? your branches fills the Ayre like a wood, and like a wilderne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s they make the earth whereby the Ayre is corrupted with them, therefore come now and tell me, and answer me who be called wise men and Schollars by your understanding and wisdom, the root of all these words and names, what is his name and the tree that hath born them all these branches; and whether or nay all these things and names and words have not been set up since the life hath been transgressed, and by the transgressor of it; There<g ref="char:EOLhyphen"/>fore what are these names, words and roots from whence they sprang? Answer me that, if any man can open his mouth, or if you be acquainted with your own countrey words, names, roots, fruits &amp; what be they all? what is every one of these names before menti<g ref="char:EOLhyphen"/>oned, and what is everyone of these words, and what is every one of the roots that bore them, and whether they be all differing one from another, or all one in the ground and main; &amp; whether there is not a root that overturns the root, &amp; branch, and name, &amp; word? And whether there is not another name unto which every knee shall bow of things in heaven and things in earth; and is not that the wisdom of God, Answer me if you be awakened. And whe<g ref="char:EOLhyphen"/>ther these words before mentioned are not them wch comes from the transgressor, which ground is ignorance, and they that live in them keeps people in ignorance, and Judges that all others be fools that are not in these words, names and terms, and things as they be in, and have learned; and whether or no they are not fools that learns that which the transgressor hath set up those names and words? And whether or nay their end is not in the flesh and out of the spirit which gives an understanding to know the ground of all words and names that from the root of ignorance
+<pb n="23" facs="tcp:193510:12"/> comes, and whether or nay in these names and things and words here is not a body which who steps into, out of the life, in the transgression; which if he go to learn the names, things and word<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, they often brake their Brain and makes them besides their sences, and there comes to be swallowed and suckt up; and whether all these be not in the transgression out of the life of God that doth not destroy nature, And whether or no that which doth is not in the transgression (that which distracts and destroys) whether or nay that is not self that seeks the knowledge, the wisdom, the un<g ref="char:EOLhyphen"/>derstanding that the transgressor, hath set up which doth load, burthen, bondage and destroy and bring into captivity; whether or nay that is not out of the truth that doth destroy, and not in the wisdom of God that preserves.</p>
+            </div>
+            <div type="part">
+               <head>Questions about your Medicine.</head>
+               <p n="1">1. VVHat is the art of <hi>Medicine,</hi> and what is <hi>Medicine?</hi>
+               </p>
+               <p n="2">2. What are these words <hi>Physiologie, Pathologie, Senei<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k▪ Hygieinill, Therapeutical, Diaterical, Chyrurgical Pharma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rganick, Anatomical,</hi> and who was the Author of them, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are their root?</p>
+               <p n="3">3. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is a <hi>Temperament, Innate</hi> and <hi>influent?</hi>
+               </p>
+               <p n="4">4. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is a complexion <hi>Sanguine Cholerick Phlegmatick,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and what is the ground of all these, and what is his Au<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd what be these words all as they are in themselves, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>▪</p>
+               <p n="5">5. W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t is the <hi>Innate</hi> heat, and what is the <hi>influent</hi> spirit.</p>
+               <p n="6">6. What is the <hi>Vehicle</hi> of the faculties, what is the <hi>Child?</hi>
+               </p>
+               <p n="7">7. What are the <hi>Meseraicke</hi> veines, the <hi>Mesentery, Sanguification,</hi> and the <hi>Capillar</hi> veines, answer to these things every one in par<g ref="char:EOLhyphen"/>ticular, if you have the spirit, that knowes spirits, who gives names to spirits?</p>
+               <p n="8">8. What is <hi>Conagulation</hi> of <hi>Aliment,</hi> what is <hi>the Quinte-sence,</hi> and what is the <hi>generative, Alterative,</hi> and <hi>formative</hi> facultie.</p>
+               <p n="9">9. What is the <hi>Corion, Amnios, Secondine,</hi> the <hi>Spermatick parts,</hi> the <hi>umbilical vessels</hi> the <hi>urachus,</hi> the <hi>Iliacke Branches,</hi> who gave all these names, and who was the Author of them, and what are all these things, and is not the same the cause that gives the names?</p>
+               <p n="10">
+                  <pb n="24" facs="tcp:193510:13"/>10. What is <hi>Diathesis, Anastomasis, Diapedesis</hi> and <hi>Diairesis, Rexis?</hi>
+               </p>
+               <p n="11">11. What is <hi>Erosion, Diabrosis, Emphraxis,</hi> obstruction, <hi>Steno<g ref="char:EOLhyphen"/>choria, constipation Thlipisis,</hi> compressure, <hi>Coalescence,</hi> descen<g ref="char:EOLhyphen"/>tion, <hi>Sunizesis,</hi> Subsidence, rarity, <hi>density,</hi> what be all these things, answer to every particular of these things, and what they be all in themselves, these names and words?</p>
+               <p n="12">12. What is <hi>Exarthrosis, Trauma, puncture, Thlasis</hi> and <hi>Thlas<g ref="char:EOLhyphen"/>ma contusion, rupture, fracture, Agma, Catagma, Teredon, Elkos, Apos<g ref="char:EOLhyphen"/>pasme, Podagra, Ophthalmie,</hi> what are all these things in them<g ref="char:EOLhyphen"/>selves, and what was the first Author of them, and the first in<g ref="char:EOLhyphen"/>venter of all these words, and who was he?</p>
+               <p n="13">13. What is a <hi>Congenite, Endemial,</hi> and <hi>Epidemical, vernal, Estival, Autumnal, Hibernal Benigne, Maligne, acute, Salutary in<g ref="char:EOLhyphen"/>termissive, proximate,</hi> which you call <hi>remite</hi> causes, <hi>prophasis</hi> which you call primative causes, Evident causes, <hi>occult</hi> causes, causes <hi>per se per accidence,</hi> and what is <hi>common,</hi> proper, <hi>positive, privative, non naturals, excretion, retention,</hi> to every particular of these words give an answer, and what be the root of all these words, and who be their Author?</p>
+               <p n="14">14. What is a pure <hi>Pletoricke</hi> humour, and a <hi>Spurious, Cacho<g ref="char:EOLhyphen"/>chimicke</hi> humour?</p>
+               <p n="15">15 What is natural <hi>Phlegme, preternatual,</hi> unsavoury <hi>Crude, acride;</hi> salt, and vitreous <hi>Phlegme.</hi>
+               </p>
+               <p n="16">16. What is <hi>Alimentary</hi> choller, <hi>Excrementitious</hi> and yellow choller, <hi>preternatual, vitelline</hi> choller, leeke green, <hi>Aeruginous</hi> and <hi>Blewish</hi> green, choller?</p>
+               <p n="17">17. What is Melancholy <hi>Alimentary, Excrementitious,</hi> natual, Melancholy, and Melancholy <hi>Adust,</hi> what are these words, and what is the cause of all these things ye speak of, and who was the Author of them?</p>
+               <p n="18">18. What is a <hi>fetulent excrement, a Juliginous</hi> vapour, what is the serious humour, a flux <hi>attraction Transmismission?</hi>
+               </p>
+               <p n="19">19. What is a <hi>virulent</hi> disease, and what is a <hi>Granary</hi> disease, and what <hi>repletion, manition, convultion, inflamation, Scyrrhus, Em<g ref="char:EOLhyphen"/>pyema?</hi>
+               </p>
+               <p n="20">20. What is a <hi>Symptome Cylosis?</hi>
+               </p>
+               <p n="21">21. What is an <hi>Atrophy,</hi> a <hi>cachexy,</hi> a <hi>Baclomia,</hi> a <hi>Malabacha hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cock alientary,</hi> a <hi>caeliak</hi> affect, a <hi>diarhaea,</hi> a <hi>dysentary,</hi> a <hi>Tenesme,</hi> an
+<pb n="25" facs="tcp:193510:13"/>
+                  <hi>Illiak, Iscury, Dusuri, strangury, Diabetes, Gonohraea?</hi> these you call symptomes of the naturall faculty?</p>
+               <p n="22">22. What is a <hi>Lypothemy</hi> or an <hi>Aphyxy,</hi> a <hi>Syncope,</hi> an <hi>Asphuxy,</hi> which you call Symptomes of the vital faculty, and what are these words, <hi>Apnoia, Dyspnoia, Dusopme, Asthma, Orthopnie,</hi> and who was the author of them, and what is the root?</p>
+               <p n="23">23. What are these words which you call the <hi>Symptomes of Sight Amagrocis, Ambluopia, Muopia, Nutolopea, Marmarugasse?</hi>
+               </p>
+               <p n="24">24. What are these words which you call the symptomes of hearing, <hi>Barucoia, Ducecoia, Hypocephocis, Ecos and Sanignos?</hi> what taught you to speak all these names, what was the first Author of them, of all these names and termes, and what is the cause of these causes, and what are all these things in themselves?</p>
+               <p n="25">25. What are these that you call <hi>Symptoms of the internal sences, Natural, preternatural,</hi> which you say proceeds from a <hi>Morbifique</hi> cause, which is a <hi>Cataphora, a Coma, Somnolent-vigilant,</hi> an <hi>Etasie</hi> a <hi>Phan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>isme</hi> an <hi>Idea,</hi> a <hi>Delireum, a moderate delireum</hi> which you say the <hi>Greeks</hi> c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll <hi>paraphrasune frensy</hi> and <hi>madnesse,</hi> and why wolfe-<hi>madnesse,</hi> and <hi>dog-madnesse</hi> and <hi>Badger-madnesse?</hi> and who was the first author of all these things, and what are the cause of them, and who was the Author of the words, and what are the words in themselves?</p>
+               <p n="26">26. And why these words which you call Symptomes of the <hi>motive, faculty, animal, motion, Palsie, lastitude, tremos, and a convul<g ref="char:EOLhyphen"/>sion universal,</hi> which you say is three-fold, which you call <hi>Emprost<g ref="char:EOLhyphen"/>hones, Opisthotonos, Tetanos?</hi>
+               </p>
+               <p n="27">27. And what are these that you use in a <hi>Convulsion particular, aspasmas, Cynious, Trismos, Strabismos, aspasme, aphonia?</hi> what be all these things and the words in themselves; Answer, and who was the first author of them, and what is the root of them, and who was the Author, and what are the cause of all these causes ye speak of?</p>
+               <p n="28">28. And what are all these following words, <hi>Tranlotes, Psellotes a vertigo, an incubus, a Lethargy, a Carus, a Catock, an Epelepsie an appoplexie?</hi> Answer, and who was the first Author of all these words, and what are the words, in themselves, and what be the root, and from whence and from what root did they come?</p>
+               <p n="29">29. What are all these words you call <hi>Tactil qualities, Palpitation
+<pb n="26" facs="tcp:193510:14"/> Sypothymy, Catarrh, Caligo, albugo plerugion,</hi> what be these words in themselves, and from what ground did they come, from that ground which is the cause of these words yea or nay, and the cause of their causes?</p>
+               <p n="30">30. The <hi>Aqueous</hi> humour what is it, and these words, <hi>Cataract, Hypopuon, Nuctolonia, Glaucoma?</hi>
+               </p>
+               <p n="31">31. VVhat is a sign, and these words you use about it, <hi>Dia<g ref="char:EOLhyphen"/>gnosticks, deloticks, Prognosticks, Anamnosticks, Pathognomonicks, Syne<g ref="char:EOLhyphen"/>druons, Epiginomens, Epephanensens a fernacious Sediment?</hi> what be all these words in themselves, and what was the first Author of them, and what is their ground and root, answer me from whence the Author had them; from the holy Ghost that the holy Ghost teach<g ref="char:EOLhyphen"/>eth, or the words mans wisdom doth teach?</p>
+            </div>
+            <div type="part">
+               <head>Some Questions of some of your Termes in that you call Physicks or Physiology, toge<g ref="char:EOLhyphen"/>ther with your <hi>Metaphysicks.</hi>
+               </head>
+               <p n="1">1. WHat is <hi>Physiology?</hi>
+               </p>
+               <p n="2">2. What is nature?</p>
+               <p n="3">3. What are the principle and cause?</p>
+               <p n="4">4. What is the affection of a natural body?</p>
+               <p n="5">5. What is an active and passive principle?</p>
+               <p n="6">6. What is matter? what is the first matter?</p>
+               <p n="7">7. What is form? what is privation?</p>
+               <p n="8">8. What is against nature, besides nature, above nature, accord<g ref="char:EOLhyphen"/>ing to nature?</p>
+               <p n="9">9. What is a cause by it sell? and what by it self? and there<g ref="char:EOLhyphen"/>fore what is an unversal cause; a particular cause a final cause?</p>
+               <p n="10">10. What is a cause accident, or what is by accident; And therefore what is Fortune or chance?</p>
+               <p n="11">11. What is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or Act perfect or imperfect?</p>
+               <p n="12">12. What is it to be in power, and what is to be in act?</p>
+               <p n="13">13. What is the bound from whence, and what is the bound to which.</p>
+               <p n="14">
+                  <pb n="27" facs="tcp:193510:14"/>14. What is an Agent, what is a patient, And therefore what is it to be simply natural, and what according to something?</p>
+               <p n="15">15. What i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a volluntary motion, and what an unvoluntary motion;</p>
+               <p n="16">16. What is natural violent, and void of violence?</p>
+               <p n="17">17 What is finite and what is infinite in Act and power?</p>
+               <p n="18">18. What is <hi>vacuum</hi> or avoid?</p>
+               <p n="19">19. What is according to former and what is according to Latter?</p>
+               <p>What is the ground of all these, and what is the ground of all these words and causes, and what is their ground and root; and whether or nay they do not proceed from that in which men that are in will, fall out about these words; and what are they in themselves; and whether or nay have not been all these words and things since the life was transgressed, and comes up, and out from ignorance and transgresses the life and witness of of God which will give an understanding, yea, or nay, answer me?</p>
+            </div>
+            <div type="part">
+               <head>Of Metaphysicks.</head>
+               <p n="1">1. WHat is <hi>Metaphysicks?</hi>
+               </p>
+               <p n="2">2. What is being, and what an Essence, and what an existence?</p>
+               <p n="3">3. VVhat is the internal principle of a substance, and external principle of a substance?</p>
+               <p n="4">4. VVhat is it to be absolutely taken; and what to be taken by restriction?</p>
+               <p n="5">5. VVhat is the manner of a being; and what is the being of reason, and what is a being by accident?</p>
+               <p n="6">6. VVhat are universallity and singularity?</p>
+               <p n="7">7. VVhat is the the principle of undeviding?</p>
+               <p n="8">8. VVhat is a <hi>Prymary</hi> and <hi>Secondary</hi> manner of being?</p>
+               <p n="9">9. VVhat is the manner of a being risen or gotten?</p>
+               <p n="10">10. VVhat are <hi>Pryority</hi> and <hi>Posteriority?</hi>
+               </p>
+               <p n="11">11. VVhat is <hi>Perseity</hi> and <hi>velleity?</hi>
+               </p>
+               <p n="12">
+                  <pb n="28" facs="tcp:193510:15"/>12. And what is the order of a being absolute, and what is the knowledge of a being according to us?</p>
+               <p n="13">13. What is it to be together in the order of a being?</p>
+               <p n="14">14. What is the Essence of universals which by the <hi>Philosophers</hi> so called, is called an <hi>Idea;</hi> likewise an universal nature?</p>
+               <p n="15">15. What is an imperfect universal?</p>
+               <p n="16">16. What is the order of dependance, or of the principle, and the <hi>Principiate</hi> or of the cause and the caused?</p>
+               <p n="17">17. What is the order of <hi>causing</hi> in it self, or in respect of some manner which followes that order?</p>
+               <p n="18">18. What is the <hi>Univocal</hi> producer or cause, What is the <hi>Equi<g ref="char:EOLhyphen"/>vocal</hi> producer or cause?</p>
+               <p n="19">19. And what is <hi>Univocal and Aequivocal,</hi> and whence comes the word Logick?</p>
+               <p n="20">20. What is <hi>a determining cause?</hi>
+               </p>
+               <p n="21">21. What is an intermediate end, or what is a <hi>principle</hi> or <hi>ulti<g ref="char:EOLhyphen"/>mate end;</hi>
+               </p>
+               <p n="22">22 VVhat is the order of the <hi>general cause</hi> and things caused, and what is <hi>special order</hi> of the same things?</p>
+               <p n="23">23. VVhat is the more worthy, and what is the more unwor<g ref="char:EOLhyphen"/>thy cause?</p>
+               <p>Answer me all these things; vvhat be all these things as they are in themselves, and vvhat is the root and ground and Author of every vvord as they are in themselves distinct each from others; And vvhat and vvho vvas the founder of every one of these vvords and things and their cause, and vvhy these vvords and things, and vvhat be they? Ansvver to every particular; and give an an<g ref="char:EOLhyphen"/>svver of the root and Author of every vvord and thing, vvhat vvas it that hath borne them and brought them forth, and vvhether all these vvords be true vvords invented by mans VVisdome, or taught by the spirit of God, vvhich by it they must be fulfilled? Answer that yea or nay? and whether these words and things are not them which men wrangles and falls out about, and wran<g ref="char:EOLhyphen"/>gles and j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngels one with another about them? That An<g ref="char:EOLhyphen"/>swer me.</p>
+               <p n="24">24. VVhat are <hi>possibility, necessity; contingency, Faciliy</hi> and <hi>dif<g ref="char:EOLhyphen"/>ficulty?</hi>
+               </p>
+               <p n="25">25. VVhat is the greater <hi>contingency,</hi> what is the lesser <hi>con<g ref="char:EOLhyphen"/>tingency?</hi>
+               </p>
+               <p n="26">
+                  <pb n="29" facs="tcp:193510:15"/>26. VVhat is the order of <hi>Duration,</hi> and what of <hi>Quantity,</hi> and what of <hi>place?</hi>
+               </p>
+               <p n="27">27. VVhat are the measure of <hi>perfection,</hi> the measure <hi>Exem<g ref="char:EOLhyphen"/>plar</hi> of <hi>application,</hi> and of <hi>Repletion?</hi>
+               </p>
+               <p n="28">28. VVhat is the order of <hi>cognation and union?</hi>
+               </p>
+               <p n="29">29. VVhat is the order of <hi>identity,</hi> and what is it?</p>
+               <p n="30">30. VVhat is the order of <hi>union in essence,</hi> what is the order of <hi>union in respect of existence,</hi> and what is <hi>Identity</hi> of <hi>existence?</hi>
+               </p>
+               <p n="31">31. VVhat is the order of <hi>Diversity?</hi>
+               </p>
+               <p n="32">32. VVhat is the order of a <hi>Being</hi> especially taken?</p>
+               <p n="33">33. VVhat is <hi>Relation</hi> in it selfe in respect of humane sence or knowledg?</p>
+               <p>And what is that that gives an understanding to know all true words from fals, such as are taught by mens wisdome, and such as are taught by the spirit, and what be every one of these words that be mentioned in themselves? and what is the root of every word, distinguish every word and every root that bears every word, for your branches are come forth?</p>
+               <p n="34">34. VVhat is the doctrine of the signe and signification of <hi>Metaphisicks?</hi>
+               </p>
+               <p n="35">35. VVhat is the physical and natural signe, and what is the <hi>
+                     <gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ical</hi> or <hi>possitive</hi> signe?</p>
+               <p n="36">36. VVhat is <hi>a</hi> simple substance?</p>
+               <p n="37">37. VVhat is the matter first, or simply considered, and what is t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e matter are respectively considered in <hi>Bodies?</hi>
+               </p>
+               <p n="38">38. VVhat is the <hi>Simular</hi> or <hi>Homogeneal</hi> part of <hi>a</hi> body, and what is the <hi>dissimular</hi> or <hi>Heterogeneal</hi> part of <hi>a</hi> body?</p>
+               <p n="39">39. VVhat is a <hi>secondary</hi> being or <hi>accident,</hi> because you call <hi>Substance a primary</hi> being?</p>
+               <p n="40">40. VVhat is a <hi>complex or a compound</hi> being, and what is the affection of a <hi>Complex</hi> being?</p>
+               <p n="41">41. VVhat is the <hi>Cognate</hi> of a being, or the Image?</p>
+               <p n="42">42. VVhat is the <hi>Opposite</hi> of a being, and what is the <hi>Simple op<g ref="char:EOLhyphen"/>posite</hi> of a being, and what is the <hi>complex opposite</hi> of a being?</p>
+               <p n="43">43. VVhat is [not a being] and that either simple not a be<g ref="char:EOLhyphen"/>ing, or according to some thing, not a being?</p>
+               <p n="44">
+                  <pb n="30" facs="tcp:193510:16"/>44. VVhat is a [not being] <hi>complex</hi> according to some thing and what is a [not being] <hi>complex simply</hi> considered, is there not much jangling and strife about these words, and about these things, and is it not for want of being in the true understanding, and wisdome and knowledge, that comprehends the contrary wis<g ref="char:EOLhyphen"/>dom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, knowledge, and understanding, and doth the understanding and knowledge and wisdome know in his own terms, and their understanding out of which comes all the difference, in phrases in expressions, in things and words; and what be all these things that be mentioned above, and what be all these words in them<g ref="char:EOLhyphen"/>selves, and from what root and ground did each and every one of them come from, and what is the root that bears every word, for your branches, as said before, are come forth.</p>
+               <p>But now give me an answer of your roots, if you be in the un<g ref="char:EOLhyphen"/>derstanding that comes not to nought, that gives to understand things, words, roots, from whence each comes, O come out of your holes?</p>
+               <p n="45">45. What are all the <hi>Abstractive</hi> termes used in this your science, and what is the word <hi>abstract,</hi> and from whence had all these things their ground, and what was their root, and who was the author of all these things above mentioned, and who was the first Author and rise, and whether all these words were given forth by the teaching of the Holy Ghost above mentioned, and what is the root of every one of these words and things, and whether any of these words and things must be fulfilled by the spirit of God? and whether or no these vvords and things must dye of themselves and the root that hath borne them, and vvhether that vvhich doth discover roots and branches, cannot take the good and distinguish it from the root that bears the bad, and is not that the tree that bears true wisdome? Answer me.</p>
+            </div>
+            <div type="part">
+               <pb n="31" facs="tcp:193510:16"/>
+               <head>A Few Questions about that which you call <hi>Ethicks, Politicks, &amp; Oeco<g ref="char:EOLhyphen"/>nomicks, or Moral Phylosophy.</hi>
+               </head>
+               <p n="1">1. VVHat is <hi>Ethicks, Politicks, and Oeconomicks?</hi>
+               </p>
+               <p n="2">2. VVhat is <hi>Theoretical, Phylosophy,</hi> and what is <hi>Practical Phylosophy?</hi>
+               </p>
+               <p n="3">3. VVhat is the <hi>Speculative,</hi> and what the practical <hi>Intellect?</hi>
+               </p>
+               <p n="4">4. VVhat is humane <hi>Felicity</hi> which you call the end of moral <hi>Phylosophy?</hi>
+               </p>
+               <p n="5">5. VVhat is <hi>Prudence</hi> and practical <hi>Phylosophy?</hi>
+               </p>
+               <p n="6">6. VVhat things are <hi>(per se)</hi> or of their own nature good or evil, or what is right reason, which you say discerns, and how for the saler judging thereof is the moral Law, so called, to be re<g ref="char:EOLhyphen"/>garded, and how is this moral Law an expresse image of the Law Natural, and a compendium of moral <hi>Phylosophy,</hi> and what is the Law natural?</p>
+               <p n="7">7. What are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or things indifferent, which you say humane reason ought to get a faculty of discerning of, by use?</p>
+               <p n="8">8. What are <hi>moral actions,</hi> their differences and principles, and what <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Affections</hi> and <hi>pleasures,</hi> and <hi>Grief</hi> which you call the ob<g ref="char:EOLhyphen"/>jects of <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ks,</hi> and what is an object? what be all these words in themselv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s as they are words, and from what roo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came they, and who was their root and their first author, and beginner? an<g ref="char:EOLhyphen"/>swer me, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the branches doth discover themselves, and answer me wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is every particular root of these words, and what is all these words, answer me every thing; came they from the wisdom of men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ching, or the wisdome of God; Answer, yea or nay, who w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st Author of them, Heathens or Saints, and whe<g ref="char:EOLhyphen"/>ther or no Christians are to learn heathens words, and whether or no those that are called Christian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that have gotten the hea<g ref="char:EOLhyphen"/>thens words, are wise and judge them fools that hath them nor, and whether or no they be in the fools state, that is lifted up in that which the heathens invented?</p>
+               <p n="9">
+                  <pb n="32" facs="tcp:193510:17"/>9. What is vertue and its kindes, by which, as by the meanes, men come to felicity, and what is a meanes?</p>
+               <p n="10">10. How is that which is the subject in <hi>Sciences</hi> the end in <hi>Ethicks</hi> and other like disciplines? And what is an <hi>Analytical method</hi> wherein <hi>Ethicks</hi> ought to be delivered?</p>
+               <p n="11">11. What are naturall <hi>Goods,</hi> which you call the <hi>Goods</hi> of the mindes, body and fortune, and what are the convenient habits of the minde, both speculative, and practical, and the actions proceed<g ref="char:EOLhyphen"/>ing from them, also pleasure as the companion of those actions? and how is the minde adorned, and perfected hereby?</p>
+               <p n="12">12. How doth vertue rather depend on custome then nature?</p>
+               <p>What be all these words, from vvhence springs all this vvisdom understanding and knovvledge that gave them forth and invented them, and vvhat be all these things in their ground and nature, and vvhat was the nature of them, &amp; the mother that bore them and the father that begot them, and vvhether or no these things, vvords and names, be not in the vvisdome belovv, in that part that distracts people out of the vvisdome of God? Therefore Answer everything in particular, and root of it, and what is the wisdome that brings all the whole creation into order, and whe<g ref="char:EOLhyphen"/>ther all these words, terms or things are given forth from that, or in that which is from below?</p>
+               <p n="13">13. What is <hi>Nobility and</hi> the <hi>Priviledges</hi> thereof, and how is it not a meer feigned thing, and how hath it a foundation in nature, and how is there a certain faculty in good men, &amp; Gentle men to pro<g ref="char:EOLhyphen"/>create children ingenious and inclinable to vertue; And whe<g ref="char:EOLhyphen"/>ther it be custome which perverts that good nature and makes them degenerate from the ancient vertue of their family?</p>
+               <p n="14">14. What is honour, and how is it rather in the honourer then in the honoured, and how doth it depend on the free will of the honourer?</p>
+               <p n="15">15. What is the manifold forme of Good and Evil?</p>
+               <p n="16">16. What is the <hi>Innate,</hi> and what <hi>Elicite Appetite?</hi>
+               </p>
+               <p n="17">17. What are <hi>Praise and Glory?</hi>
+               </p>
+               <p n="18">18. What is <hi>a Stoick, Epicurian, Platonick, Peripatetick Phylosopher,</hi> and what is <hi>Stoical, Epicurial, Platonical and paripateticall</hi> who was the author of all these names, and whether or no Christians that say they are spiritual, are to mingle themselves with their words of wisdome, that their wisdome hath taught, but what are these
+<pb n="33" facs="tcp:193510:17"/> words themselves, and who was the first inventer of these names, and who gave them the names, bring forth your record?</p>
+               <p n="19">19. What are the divers <hi>Subordinate ends,</hi> and what is the <hi>Ul<g ref="char:EOLhyphen"/>timate end in morality,</hi> and what is <hi>Subordinate,</hi> and what is <hi>Ultimate?</hi>
+               </p>
+               <p n="20">20. VVhence grew the divers opinions of <hi>moral Phylosophers</hi> a<g ref="char:EOLhyphen"/>bout felicity?</p>
+               <p n="21">21 What is <hi>Speculative felicity,</hi> and what <hi>practical felicity?</hi>
+               </p>
+               <p n="22">22. What is the <hi>sapiens or wisdome,</hi> where speculative feli<g ref="char:EOLhyphen"/>city doth consist?</p>
+               <p n="23">23. What is the <hi>summum bonum</hi> or the <hi>chiefest good,</hi> which is made the ultimate end in <hi>moral Phylosophy,</hi> and what <hi>Fecility</hi> or <hi>blessedness</hi> is, that is such a chiefest good? and how doth that felicity happen to none without <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or goods of fortune?</p>
+               <p n="24">24. What is <hi>contemplation</hi> in <hi>moral Phylosophy?</hi>
+               </p>
+               <p n="25">25. How is the essence of felicity, placed as ye say <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>katakteesin</hi> in the habit of vertue and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>katachreesin;</hi> in the operation thereof?</p>
+               <p n="26">26. How are <hi>health, strength, vigor of the sences, wit, towardli<g ref="char:EOLhyphen"/>nesse, liberty, friends, riches, &amp;c.</hi> the instruments of felicity, and how are <hi>Nobility, honour, praise, glory, good name, Beauty and</hi> your <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or fruitfulnesse in children, &amp;c. the ornaments thereof.</p>
+               <p n="27">27. What is that prudence whereby all moral vertues are knit together, and how without it none obtains practical felicity?</p>
+               <p n="28">28. How are other beings besides God as it were steps whereby the mind is carried up to the contemplation of God, and how can none come to divine wisdom, but he whose mind moral virtue hath purged from the dregs of unreasonableness and passion. <hi>Answer</hi> all these things, and to every thing in particular, and give your first Author and ground, and root of every thing in particular, if you be in the wisdom of God, and whether or no amongst them that have these words there are not much confusion and jangling about them; so the root of every word and thing, and name bring out, and then things shall be seen beyond the Branches, answer me these, and then something will be spoken.</p>
+               <p n="29">29. What are the principles of voluntary Actions?</p>
+               <p n="30">30. What is the absolute, and what the comparative judgement of the practical intellect? and what is <hi>vellectie</hi> which followes the absolute judgement, and what is <hi>volition</hi> which followes the comparative?</p>
+               <p n="31">
+                  <pb n="34" facs="tcp:193510:18"/>31. What are the affections in general?</p>
+               <p n="32">32. How are they the functions of the natural facultie?</p>
+               <p n="33">33. What is moral pleasure and grief, and what is that pleasure which followes moral vertue and felicity, and what is the grief which follows moral vice?</p>
+               <p n="34">34. What is common and natural pleasure, and what is proper and adventitious pleasure?</p>
+               <p n="35">35. What are intellectual moral vertues?</p>
+               <p n="36">36. What is intelligence, science, <hi>Sapience,</hi> Art and prudence, which you call the five <hi>Dianoetical</hi> vertues?</p>
+               <p n="37">37. What is the <hi>Theoretical</hi> and what the <hi>Practical</hi> part of the mind?</p>
+               <p n="38">38. What is the nature of moral vertue in general and par<g ref="char:EOLhyphen"/>ticular?</p>
+               <p n="39">39 What is the Efficient cause of moral vertue, which <hi>Galen,</hi> the stoicks and <hi>Socrates</hi> properly rendred not, and how is cu<g ref="char:EOLhyphen"/>stome the Principle and immediate cause of manners and moral vertue?</p>
+               <p n="40">40. What is moral piety or godliness, since you acknowledge the naughtiness of the <hi>Gentiles</hi> minds, had corrupted their knowledge of God, what is a <hi>Cardinal</hi> vertue, and how are they four, and how are fortitude, temperance, prudence, and Justice those four.</p>
+               <p n="42">42. What is <hi>moral magnificence,</hi> and what <hi>magnanimity,</hi> and how are they moral virtues?</p>
+               <p n="43">43. What is <hi>universal,</hi> and what <hi>particular justice,</hi> what is <hi>distributive,</hi> and what <hi>commutative Justice?</hi>
+               </p>
+               <p n="44">44. What is <hi>commitie,</hi> and <hi>urbanity,</hi> and <hi>heroicall greatnsse,</hi> and how are they <hi>moral vertues?</hi>
+               </p>
+               <p n="45">45. What is <hi>moral friendship,</hi> and how is it one meane to get and enjoy felicity?</p>
+               <p n="46">46. What is <hi>perfect,</hi> and what is <hi>imperfect friendship,</hi> and what is <hi>friendship per se,</hi> and what <hi>friendship per acci<g ref="char:EOLhyphen"/>dens?</hi>
+               </p>
+               <p n="47">47. What is <hi>voluntary,</hi> and what is <hi>necessary friendship,</hi> what <hi>natural,</hi> and what <hi>political friendship?</hi>
+               </p>
+               <p n="48">48. What is a <hi>semi-vertue?</hi>
+               </p>
+               <p n="49">49. What is the <hi>will</hi> its acting with the judgement of reason, with indifferency, and with dominion of its own act?</p>
+               <p n="50">
+                  <pb n="35" facs="tcp:193510:18"/>50. What is <hi>monarchy, aristocracy,</hi> and <hi>democracie,</hi> which are called <hi>politique friendship</hi> betwixt a Magistrate and his subject.</p>
+               <p n="51">51. What is the <hi>manifold friendship</hi> betwixt subjects, and how is the nature of society handled in <hi>politicks</hi> &amp; <hi>oeconomicks?</hi>
+               </p>
+               <p>Answer all these questions in themselves, and what they are in themselves, and what the words are and what was the root of them all, whether from a transgressor, or one out of transgression, &amp; whether the words that mans wisdom teacheth or the words that the holy Ghost hath taught. Answer one from another, and speak to every word and thing, and the root of it that is queried of you, and then something you do, and shuffle not forth off the branches, they are already come forth, they are sprung up in the night, but now in this day of pruning let us see the roots; and now in the time of the day and light, let us see the authors and every one that hath made his wood and wildernesse where he hath laid in the night, therfore now is the day wherein every word and thing must be brought out to the light and branch, and the root hath born them all, therefore ye that say ye are wise men, Schoolars, and learned men, and are not the fools and no<g ref="char:EOLhyphen"/>vises, Now in the day light your wisdom appears, what was the root of every one of these names, roots and things? and what be every one of these in themselves? and who was the first author of them? and whether or no they are the words that mens wisdom teacheth, or that which the holy Ghost teacheth, me answer, yea or nay?</p>
+            </div>
+            <div type="part">
+               <head>Of Theologie.</head>
+               <p n="1">1. WHat is <hi>Theologie</hi> and <hi>Divinity?</hi>
+               </p>
+               <p n="2">2. What is a <hi>divine?</hi>
+               </p>
+               <p n="3">3. What is a <hi>hand-maid</hi> to Divinity, and how are arts, sciences and tongues, <hi>hand-maids</hi> to Divinity?</p>
+               <p n="4">4. What is a <hi>clergie,</hi> and what are <hi>clergie</hi> and <hi>laitie?</hi>
+               </p>
+               <p n="5">5. What is a <hi>sisteme</hi> of Divinity?</p>
+               <p n="7">7. What is the <hi>original?</hi>
+               </p>
+               <p n="8">8. What is <hi>theologie</hi> of the Gentiles, which ye say was im<g ref="char:EOLhyphen"/>properly so called, and is threefold, <hi>poetical</hi> or <hi>fabulus philoso<g ref="char:EOLhyphen"/>phical,</hi>
+                  <pb n="36" facs="tcp:193510:19"/> or <hi>natural</hi> and <hi>sacerdotal,</hi> or <hi>political theologie?</hi>
+               </p>
+               <p n="9">9. How is <hi>theologie</hi> truly so called <hi>archetipal</hi> and <hi>Ectypal?</hi> And how is <hi>ectipal theologie</hi> first, in Christ, Secondly, in his members, which you say is the <hi>effigies</hi> of the <hi>archetypal.</hi>
+               </p>
+               <p n="10">10 What is the <hi>theologie</hi> of the blessed and triumphant? and what the <hi>theologie</hi> of the travilers or <hi>mil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itant?</hi>
+               </p>
+               <p n="11">11. What is the principal of the being of <hi>theologie,</hi> &amp; what the principle of knowing thereof which ye say is the word of God? and what is that word <hi>agraphon,</hi> unwritten before <hi>Moses</hi> time, and the word <hi>engraphon</hi> written since <hi>Moses</hi> time, &amp; how is there no other principle of true <hi>theologie</hi> then the word of God written or the Scripture? and whether the Scriptures be the words and not the word? answer all these things, and to every particular querie, queried of you before mentioned? and what is every, word of these before mentioned, do not hip nor skip from them, answer every word in particular what the word is, and what was its root, distinguish each in its place that is que<g ref="char:EOLhyphen"/>ried of you; if you be in the wisdom that is below in the darknesse, and transgression, you cannot answer these queries, but if you be in the wisdom that is from above, that compre<g ref="char:EOLhyphen"/>hends all grounds, roots, and branches, words, things and names with which they are seen and end, their wisdom speaks where that is?</p>
+               <p n="12">12. What is the <hi>principle,</hi> and what is the <hi>ministerial</hi> Testi<g ref="char:EOLhyphen"/>mony of the Scriptures? and how is the ministerial the Testi<g ref="char:EOLhyphen"/>mony of the Church, and how is the testimony of the Church first in time, and the testimony of the spirit first in nature and efficacy?</p>
+               <p n="13">13. What is <hi>canonical-scripture?</hi> And what is <hi>apocriphalscripture?</hi>
+               </p>
+               <p n="14">14. How is that question (to ask whether the Scripture be the word of God) unworthy a Christian? What be all these words before mentioned, whether or nay they have not come out from that body where mens wisdom doth teach words, and not from the words where all true words ends that are given forth by inspiration of the Almighty? answer all these questions before-mentioned, every particular of them, the words what they are themselves, and what is the ground, first author, and their root?</p>
+               <p n="15">15. What is <hi>translation?</hi> and what is <hi>authenticall Transla<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <p n="16">
+                  <pb n="37" facs="tcp:193510:19"/>16. What are the means of searching out the meaning of the Scriptures? one whereof you say is a <hi>logical analysis,</hi> and what is a <hi>logical analysis</hi> of the Scripture?</p>
+               <p n="17">17. What is the primary or chief end of <hi>theologie,</hi> and what the subordinate end of <hi>theologie?</hi>
+               </p>
+               <p n="18">18 How is God known absolutely in his essence, and rela<g ref="char:EOLhyphen"/>tively in his persons?</p>
+               <p n="19">19. What are Gods incommunicable properties, and what his communicable in Analogical effects?</p>
+               <p n="20">20. What is the Trinity in Unity, and whether all these words be not of mens wisdom and teaching? answer to every particular querie and word that is queried of you here, and what was their first ground and root, and to the light bring it out, and the first author of them, and whether or no all this body hath not gotten up since the apostacy in the transgressi<g ref="char:EOLhyphen"/>on, where mens wisdom teacheth words, and the words that the holy Ghost teacheth is foolishnesse to them, whether or no this is not so, answer me yea or nay?</p>
+               <p n="21">21. What are the three persons in Trinity?</p>
+               <p n="22">22. How are the persons subsistences of the Deity?</p>
+               <p n="23">23. How is the <hi>trinity,</hi> not the number numbering, but the number numbred?</p>
+               <p n="24">24. How is this opinion of the trinity, not onely a Church tradition, but a doctrine expressed in the Scriptures.</p>
+               <p n="25">25. How is the word <hi>hypostasis</hi> which you acknowledge any singular substance, used metaleptically, (or by taking one thing for another, for a person, <hi>Heb.</hi> 1.3. since ye say a person is a singular, rational, compleat substance, and differing from another, by an incommunicable property, answer me this and all these queries and words, and tearms, and things be<g ref="char:EOLhyphen"/>fore mentioned, what be the wisdom that hath taught them, and ground and root they are come from, and whether or nay they have not all come up-amongst Christians since the dayes of the Apostles, and learned of the Heathens that knew not God, that transgressed the life, that had nothing but their own wisdom to teach them, who was taught by their own wisdome, and whether that is not pleasing to a carnal man that knowes not the things of God?</p>
+               <p n="26">26. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow are the words <hi>persons, trinity,</hi> and <hi>homoousiou</hi> which ye grant are not found in so many syllables in the Scriptures,
+<pb n="38" facs="tcp:193510:20"/> yet agreeable thereto and profitably used in the Church?</p>
+               <p n="27">27. How is a person of the deity, the essence of God with a certain manner of subsistence, and what is that certain manner of subsistence?</p>
+               <p n="28">28. What are the essential, and what the personal works of God?</p>
+               <p n="29">29. What are the works of God <hi>ad intra,</hi> or with in himself <hi>&amp; ad extra</hi> or without himself?</p>
+               <p n="30">30. What are the several wills, which Divines so called, make in God, as the will of his good pleasure, and the will of the sign, the antecedent will, and the consequent will, the ab<g ref="char:EOLhyphen"/>solute will, and the conditional will, the hidden will, and the revealed; and yet some say this distinction of the will of God is to be well observed, least real different and contrary wills are made in God, and grant that to speak properly there is none but the will of his good pleasure?</p>
+               <p>And whether all this be not in the body of divinity, and what is a body of Divinity? whether or no here is not pre<g ref="char:EOLhyphen"/>sumption in these words which be of you queried, and what be all these words that be of you queried, and all these things answer to every particular word and thing, that is of you queried, what be the words, things, and the root they all spring from, and who was the author of every one of them in particular? come out to the light and answer (if it be in the divine ye be in) by which roots, branches, things, names, words are comprehended, discovered and seen, and answered, and confounds all the contrary, and fadoms all that is in the World?</p>
+               <p n="31">31. What is the necessity of compulsion, and the necessity of changeablenesse in the decree or will of God, how doth not the decree of God take away contingency in second causes?</p>
+               <p n="32">32. What is the General decree, and what is the special de<g ref="char:EOLhyphen"/>cree of God?</p>
+               <p n="33">33. What is predestination to the end, and predestination to the means, which distinction you say ye make for the weakness of your understanding; how is predestination an ab<g ref="char:EOLhyphen"/>solute decree, and a not absolute decree of God?</p>
+               <p n="34">34. How is sin not the cause of reprobation but the cause of reprobabillity?</p>
+               <p n="35">
+                  <pb n="39" facs="tcp:193510:20"/>35. What is <hi>theanthropos,</hi> and what is <hi>hypostatical union,</hi> since ye say the words <hi>prothesis, prognosis,</hi> and <hi>proorismos,</hi> are sometimes used for one and the same thing? why for teachings sake do you distinguish, the first to be Gods purpose of saving, the second to be his free benevolence, whereby he acknowledgeth his own for his; And the third to point out a predestinati<g ref="char:EOLhyphen"/>on to Christ, and other means of Salvation besides Christ the light of the World?</p>
+               <p n="36">36. How is Christ the cause not of election, but of salvati<g ref="char:EOLhyphen"/>on, and how is unbelief not the cause of reprobation, but of damnation?</p>
+               <p n="37">37. How is damnation not the end of reprobation?</p>
+               <p n="38">38. Why for teachings sake, as you say, do you make two acts in reprobation, as <hi>praeterition</hi> and <hi>predamnation?</hi>
+               </p>
+               <p n="39">39. Why must men in searching out their election, by an <hi>analyticall</hi> method, proceed from the meanes of Execution, to the decree, and what is an <hi>analyticall</hi> method, in searching out election, and why must in be by a <hi>Syllogism<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> answer all these Queries that is Queried of you, that is laid down by you, that is fetched out of your own field, where you labour, and what be every word and thing in themselves, and what are the words, and what was their root, and whether or no here is not much confusion in all these things and words, and distraction and confusion amongst your selves about them, and whether or no they are not words that the wis<g ref="char:EOLhyphen"/>dome of men hath taught, and entiseth others that be the learners; and the first Author and Inventer of them, was he not a transgressor, or were the words taught by the Holy-Ghost, answer me every particular name, word, thing, Querie, and what is the root of them all?</p>
+               <p n="40">40. How are Angels in a place not circumscriptively, but definitively? What be all these things in themselves, what be all these words as different one from another, what is the root of every one of them in their particulars, and who was the first Author of them, and whether they are not the words <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f mens wisdom, or whether they are the words of the Holy Ghosts teaching, &amp; what is an <hi>Angel,</hi> &amp; what is <hi>Adam,</hi> &amp; what <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the tree of knowledge of good and evill, an outward tree,
+<pb n="40" facs="tcp:193510:21"/> yea or nay, and what was its fruit outward, yea or nay? let all these things be answered, words and names, and the root of them all, and come out to the light in this the day, and be not like the venemous Beasts that wanders about in the night, when the day appears they go into their Dens, but when the day appeares, men go to their labours.</p>
+               <p n="41">41. Since ye acknowledge Gods providence (which you call his actuall providence) to be that whereby he doth pre<g ref="char:EOLhyphen"/>serve and govern all things, how do things thereby necessa<g ref="char:EOLhyphen"/>rily come to pass, onely with the necessity of Mutability and not of constraint?</p>
+               <p n="42">42 What is the Primary Subject of the Image of God, and what the secondary Subject of that Image?</p>
+               <p n="43">43 What are the naturall Gifts of the Image of God, and what the supernaturall gifts thereof?</p>
+               <p n="44">44. Since you say there was such clearness of understand<g ref="char:EOLhyphen"/>ing in man before his fall, that he could give every thing a name sutable to its nature, what use is there of any termes of art invented by man in the fall?</p>
+               <p n="45">45. How is man renewed or in the state of grace free from e<g ref="char:EOLhyphen"/>vill, and free to good, by Gods grace, but imperfectly?</p>
+               <p n="46">46. How is sin expressed or as you say defined to narrowly, by thought, word or deed?</p>
+               <p n="47">47. How would not God have the first sin committed, and how would he have it committed?</p>
+               <p n="48">48. What was the <hi>prokatarkical,</hi> and what the <hi>proeegoumenal</hi> cause of the first sin?</p>
+               <p n="49">49. What are those certain degrees whereby <hi>Adam</hi> fell from God, not at once, but by little and little, all which parts or degrees of falling ye say thou shalt rightly call a transgres<g ref="char:EOLhyphen"/>sion of the law of nature; and what was that law of nature, which he transgressed against?</p>
+               <q>What are all these words, whether or nay they are not the words that the wisdom of man hath taught, and whether or no they come not from the root that transgresseth the life, or whether or no they are the words that the holy Ghost hath taught, answer me if you can or dare venture, what every particu<g ref="char:EOLhyphen"/>lar of these words is, and from what center and ground they come from, and what is the root of them; for much branches have discovered themselve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from the imaginations, therefore the root of all these words and things shew forth, and the root of the imagination, and what is the tree that must be o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> down, that bears not fruit to God, and hath not this tree a wisdom, a know<g ref="char:EOLhyphen"/>ledge, an understanding, &amp; would not this wisdom teach words, which is foo<g ref="char:EOLunhyphen"/>lishness
+<pb n="41" facs="tcp:193510:21"/> with the wisdom of God, which must be confounded, and doth not that which confounds confound. words to which it taught, answer me, for you have tongue enough sometimes, let us see now if it can wag, ye doctors, ye learned men, let us see if it be the tongue of the learned, and what is the of tongue the learned?</q>
+               <p n="50">50. How is the diversitie of actual sins taken from the matter, from the form, from the Efficient cause, from the subject and from the object?</p>
+               <p n="51">51. How from adjuncts is a thing sinful by it self or by accident?</p>
+               <p n="52">52. How doth sin aginst men hurt their superiours, inferiours and equals, and what is a superiour and an inferiour among men?</p>
+               <p n="53">53. What are those four degrees of death wherein the misery of sinful man is contained?</p>
+               <p n="54">54. Why call you the Law of God the moral Law, and in what respect doth it differ from the Law placed in the first man <hi>Adam,</hi> whereof you say the heathens have remainders of, and what is the remainder of the first Law?</p>
+               <p n="55">55. What is that greater <hi>Emphasis</hi> which is in a <hi>negative</hi> pre<g ref="char:EOLhyphen"/>cept, then is in an <hi>affirmative,</hi> and how doth an <hi>affirmative</hi> precept bind <hi>semper</hi> or alwayes, but not <hi>ad semper</hi> or to alwayes?</p>
+               <p n="56">56. Where find you such a definition of the Gospel in the Scriptures, and as you give of it, to wit the Gospel is a joyful message or doctrine of the Son of God, sent into the world, that taking on him humane nature, he might undergo, the curse of the Law in our stead or place, and by most perfectly obeying the same, might deserve for us eternal life.</p>
+               <p n="57">57. What are all your various agreements and disagreements between the Law and the Gospel as their agreement in the chief efficient cause there differing in outward instrumental causes, say<g ref="char:EOLhyphen"/>ing also the law was knowen to men naturally but the Gospel by Gods gracious Revelation, their agreement in the common mat<g ref="char:EOLhyphen"/>ter, their differing in the proper matter, their agreement in their commun form, their differing in the proper form, their agreement in the chief end, their differing in their proper ends, their agreement in their common object, their differing in their proper object, their agreeing in their common adjunct, and their differing because by accident, and through mans infirmity, the Law without the Gospel is insufficient to salvation.</p>
+               <p n="58">58. How doth it appear by this comparing the Law and Gospel together in what sort they are opposite, and subordinate one to another, and what is the opposition, and subordination of the Law and Gospel?</p>
+               <p n="59">
+                  <pb n="42" facs="tcp:193510:22"/>59. How is it, that since ye say, what righteousness the Law requireth, that the Gospel holds forth to a believer, yet ye say we cannot fulfill the Law in this life, but the regenerate by the gift of Sanctification do begin to obey it? what be all these words, names which be Queried of you, distinguish them, and what is the root of every particular, and whether or no there is not much confusion in them, and whether or no there is not the words of mans wisdom that it doth teach; so answer every particular word in themselves, and who was the Author of them, and the first rise, and what the words are, and what he vvas that vvas the first Author of them, answer every one of these words in their root, and whether they came from a transgressor or from a Saint, give me the ground, the root, the Author of every word and thing if you have the tongue of the learned that can speak <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in.</p>
+               <p n="60">60. What are all the termes about Christs incarnation as you call it, as <hi>Incoatatively and Terminatively,</hi> and <hi>Sunthetically,</hi> personal union, that Christs Humane nature hath not a peculiar, subsistence or any other then that <hi>[toulogou]</hi> whereby he differs from all other men; That its expedient for teachings sake to shew how his hu<g ref="char:EOLhyphen"/>mane nature was united to the Son of God, and how not united; Not united <hi>sunoudioodoos,</hi> nor <hi>ousioodoos</hi> &amp; <hi>dicasticoos</hi> only, not <hi>sketicoos,</hi> and not <hi>mustikoos</hi> onely, that is as Christs dwells in the faithful. Nor Sacramentally, as he is in the supper, but it is united <hi>Huposta<g ref="char:EOLhyphen"/>tikoos</hi> which you expound personally, which personall union ye say is <hi>Atreptoos, adiaretoos</hi> a <hi>Sugnchutoos</hi> and <hi>achoristoos;</hi> what be all these words, whether there is not confusion in them, and whether or no these words was taught by the holy Ghost, that are Queried of you above mentioned, or by the wisdom of man out of the truth, and what is the center the root and ground from whence every thing and word came, come up and appear, and answer if you be come into that which knowes hights and depths, changeable words and roots, and withering branches and roots; and branches, and words that shall not change nor end, but be fulfilled in that, and by that which hath no end?</p>
+               <p n="61">61. What is the <hi>verball</hi> Communication of properties, and what the real, which Communication you say is one effect of three of the Personal union?</p>
+               <p n="62">62. How is the Father the efficient cause of Christs Mediator<g ref="char:EOLhyphen"/>ship <hi>[Kat'exocheen]</hi>
+               </p>
+               <p n="63">63. How is not onely whole Christ, but the whole of Christ the subject of his Mediatorship?</p>
+               <p n="64">
+                  <pb n="43" facs="tcp:193510:22"/>64. What is the difference between Christ being a Mediator by merit, and by efficacy?</p>
+               <p n="65">65. What is eternal life privatively taken, and what positively taken, and how is Christs payment of punishment the cause of the former, and his perfect righteousness the cause of the latter?</p>
+               <p n="66">66. What is Christs Original righteousness, and his Actual righteousness, and how is his Original righteousness opposed to Original sin?</p>
+               <p n="67">67 How do they that say Christ laid down his life for all, stretch his sufferings further then is meet, and how know you that by all &amp; every man whom Christ is said in the scripture to give his life a ransome for, is meant <hi>Metonymically,</hi> and of <hi>genera singulorum</hi> or kinds of all, but not of <hi>singula generum,</hi> or all of the kinds? Answer these queries, and is there not confusion and contradicti<g ref="char:EOLhyphen"/>on in these words of yours, what are all these words distinct one from another, Answer, And what is the root of every one of these words, and who was the first Author, and are they not words that mans wisdom hath taught, and not as the holy Ghost hath taught, distinguish the one from the other, was he a transgressor that gave them forth the first Author, or was he a Saint led by the spirit of God, or had you them first revealed to you by the spirit of God, or had you them out of old Books and Histories, the words that mans wisdom hath taught below out of the life, in the transgression, where all confusion and distraction is? Answer to all these things before mentioned.</p>
+               <p n="68">68. What is Christs Essential Kingdom, and what his personal <hi>Donative,</hi> and <hi>Oeconomical</hi> Kingdom, since you say he shall Ad<g ref="char:EOLhyphen"/>minister his <hi>Oeconomical</hi> Kingdom for ever?</p>
+               <p n="69">69. How are not all men, nor the Eiect onely, but some of all mankind, called to grace?</p>
+               <p n="70">70. How have some an outward and <hi>Analogical</hi> Communion of the Covenant of Grace, whereby they are reckoned for Gods people, but not so in truth?</p>
+               <p n="71">71. What is a Sacramental, and how is that word not unfitly applyed to the signes of grace, what are the signes signifying, exhibiting, applying and sealing in your Sacraments?</p>
+               <p n="72">72. What are the effects of Sacraments, and if a confirmation and sealing of Justification, and sanctification as you affirm, how are they common to those that are not the elect, as well as to the
+<pb n="44" facs="tcp:193510:23"/> Elect, and if they are proper onely to the Elect, as to the thing signified, how can they be common to others, as to the sign, since the sign was to shew forth the thing signified?</p>
+               <p n="73">73. Hovv is <hi>John</hi> and Christs Baptisme <hi>[re ipsa]</hi> as you say or in very deed the same?</p>
+               <p n="74">74. How is one end of Baptism with water a seal of receiving and Implanting into Gods family and of regeneration?</p>
+               <p n="75">75. How have infants faith no otherwise then as they have rea<g ref="char:EOLhyphen"/>son, that as ye say not in the fruit, but in the root and seed, not in the first, but second act, and how is the reason otherwise be<g ref="char:EOLhyphen"/>tween the infants of unbelievers and persons in Covenant, and who are the seed, and who are in Covenant?</p>
+               <p n="76">76. How is sprinkling of water used in the place of plunging, and how do you believe that the Apostles in Baptizing whole families had the same tender respect to infants in colder Countreys as you say you have? what are those formal words as you call them which you use in Baptisme, saying, I Baptize you in the name of the Father, &amp;c. whether to Baptize in or into (as the word is) the name, be formal?</p>
+               <p n="77">77. How is the participation of the body and blood of Christ sealed to Christians in breaking of bread, and how is it <hi>Metony<g ref="char:EOLhyphen"/>mically</hi> called the <hi>Eucharist.</hi>
+               </p>
+               <p n="78">78 How know you that breaking of bread is not a thing in<g ref="char:EOLhyphen"/>different, and what it the body and blood of Christ? how know you that when Christ said this is my body, his meaning this was the Sacrament of my body?</p>
+               <p>Whether or no here are not lies in these words and things of yours and confusion and darkness, your selves by your own words which your own wisdom teacheth you, what is every one of these words in particular queried above mentioned of you; and who was the Author of every word, and the root, what is that of every word and thing that is queried above, answer to the thing, and whether or no they are not the words and things that mans wisdom hath taught, which knowes not the root of the true wisdom nor the Kingdom of God wch hath no end, answer these things of you be in the wisdom of God, if not, let your mouth stop and confound you; and your words, and it that taught you, and if you all know the root of every word and every thing, now if you tell what another man sayes is the root, and root of your words, then I ask what was the root of that man, that
+<pb n="45" facs="tcp:193510:23"/> made him to speak them forth, vvas it from the vvisdom that man teacheth, or from the wisdome that the Holy Ghost teacheth, An<g ref="char:EOLhyphen"/>swer me that; if you become to that which doth reveal, savour and gives to understand?</p>
+               <p n="79">79. What is the visible and invisible Church, and what is the na<g ref="char:EOLhyphen"/>ture of the visible Church, and how is it considered in it selfe, or oppositely in respect of the false Church and <hi>Katachrestikoos,</hi> or <hi>improperly,</hi> or how is the visible Church a company of persons commonly called, both of the Elect and Reprobate, what is the ambiguety of the name of a visible Church, as propely so called, for the called or universal Church throughout the world strictly taken as the <hi>English, French, Dutch,</hi> or <hi>Helvetian,</hi> and how is a natio<g ref="char:EOLhyphen"/>nal Church said to be strictly taken, or what is a national Church or most strictly taken for a representative Church of Pastors &amp; Elders, and what is a representative Ch. &amp; how are they a Ch. representative?</p>
+               <p n="80">80. How doth the forme of the Church consist in a two-fold communion, and what is the forme of the Church, and how doth Christ communicate his vertues to the members of a visible (some being Reprobates) as the head doth to the members?</p>
+               <p n="81">81. How hath the word Catholick Church a three-fold signi<g ref="char:EOLhyphen"/>fication?</p>
+               <p n="82">82. What is that inherent holinesse of the Church in this life which is not perfect, and how doth Christ cover that imperfection with his own perfection, if his perfection be not in his Church, and how is that imperfect holiness, perfect by a hope that it shall be perfect.</p>
+               <p n="83">83. How are the notes of the visible Church, the pure preach<g ref="char:EOLhyphen"/>ing of the word of God, with the lawful administration of the Sacraments, and where is this pure preaching of the word of God to be sound, and what is the lawfull administration of the Sacra<g ref="char:EOLhyphen"/>ments? And what are those accidentall things, wherein those notes do more agree to one Church more then an other, what is the ordinary or extraordinary administration of the Church, an<g ref="char:EOLhyphen"/>swer all these things, every particular, as they are of you queried, and what are they every word and thing in it selfe, and the root and ground of them all in every thing, and word, and root, and ground of them all, shew forth each in their place, and who was the first author of them all; and whether the words and things of God is to be spoken in the words that mans wisdom doth teach, and whether or no these be not the words, or most of them, which
+<pb n="46" facs="tcp:193510:24"/> mans wisdome hath taught, and are not of the words which the holy Ghost teacheth, distinguish every word, and thing and name one from another, and what every thing and name is that is above mentioned?</p>
+               <p n="84">84. How are the gifts of <hi>Prophecy, Tongues and Miracles,</hi> marks of the extraordinary Ministers of the Church, and how these ex<g ref="char:EOLhyphen"/>traordinary gifts being taken away, an ordinary Ministry succee<g ref="char:EOLhyphen"/>ded, Answer this?</p>
+               <p n="85">85. How came those gifts to be taken away, and how are the ordinary Ministers of the Church instructed, &amp; called by ordinary, meanes and what are those ordinary meanes? and what is <hi>Bathkol</hi> which you say is the daughter of a voice, what is the daughter a voice, and by whom was she begotten?</p>
+               <p n="86">86. What are ordinary <hi>Pastors, Doctors or Teachers, Presbyters and Deacons</hi> of the Church?</p>
+               <p n="87">87. How comes this difference between Pastors and Doctors to be, that the first are chief over the Church, these over the Schools, they in moving, these especially in teaching their hearers; Answer these and the cause and the matter, these things be according to the queries, and bring out your strength and reasons, and speak to the things?</p>
+               <p n="88">88. What are <hi>Schooles and Ʋniversities,</hi> in which Doctors are pro<g ref="char:EOLhyphen"/>fessors of <hi>Theologie?</hi> and what is a professor of <hi>Theologie</hi> Ans. &amp; who was the first author of <hi>Schools and Colledges,</hi> to make Ministers since the daies of the Apostles, that men was made by the will of God?</p>
+               <p n="89">89. How is God the chief cause of the call of ordinary Mini<g ref="char:EOLhyphen"/>sters, and how doth he call ordinary Ministers inwardly, and in<g ref="char:EOLhyphen"/>due them with his gift; and what are those gifts, and whether Schoole-learning be not rather gotten by humane study and industry, then gifts?</p>
+               <p n="90">90. What is a Ministerial call of ordinary Ministers, and how is it by the whole Church, or at least by a representative Church?</p>
+               <p n="91">91. How are examination election, and confirmation requi<g ref="char:EOLhyphen"/>red to the lawfull call of ordinary Ministers, and how can such ordinary Ministers appoint a good order in the Church, judge of doctrine, and controversies, and exercise the power of the keyes, which is to have what they bind on earth bound in heaven, which were the actions of Saints and Ministers, endewed with
+<pb n="47" facs="tcp:193510:24"/> those which you call extraordinary gifts? Answer all these things in themselves what they be, every thing in themselves, and the root of every word of these above queried; and what is every word in themselves, and the root they came from; so to every particular querie, and every particular word; give your answer, who is the author of them?</p>
+               <p n="92">92. What is a <hi>Synode, or Presybtery</hi> of ordinary Ministers, and that either <hi>Oeconomical, national or provincial, Classical, and parochial,</hi> and what is the <hi>Prolocutor of a Synode?</hi>
+               </p>
+               <p n="93">93. What is the <hi>Ecclesiastical</hi> and what is the political govern<g ref="char:EOLhyphen"/>ment of the Church, and how doth the Magistrate govern the Church politically?</p>
+               <p>You say there is a threefold word, <hi>Hypostaticos, Eudiathetos, Prophoricos,</hi> give the root of all these words and their author?</p>
+               <p n="94">94. How are Magistrates nurses to the Church, as they are keepers of both Tables, and what is a keeper of both tables, and how are they nurses to the Church, as they preserve the Church and Schools; and do they preserve the Church or the Schools of natural learning?</p>
+               <p n="95">95. How is a Church counsel to be called by a believing Ma<g ref="char:EOLhyphen"/>gistrate, and how is an unbelieving Magistrate in such a case to be sought unto by an humble book, and how if he be such an open e<g ref="char:EOLhyphen"/>nemie necessity so requiring, may be celebrated by the common-censent of the Church, and not else, was this agreeable to the A<g ref="char:EOLhyphen"/>postles?</p>
+               <p n="96">96. What is the President of a counsel, and what the <hi>Political and Ecclesiastical president</hi> of a counsel, and what is the scribe of a counsel? and why so many scribes as presidents?</p>
+               <p n="97">97. What are these private men which you say are not plainly excluded from a counsel, who may be present at the handling of doctrine, but not at the knowledge of the scandals or offences? And what is a private man in the Churth, and how doth charity cover scandal from such private men? Answer all these things particularly, and all these things and words and names, and whe<g ref="char:EOLhyphen"/>ther or no they are agreeable to the Church and Apostles, yea or nay, let us know your ground, let us know the root of all these things, words and names before queried, and what was every one of these words, and what was its root?</p>
+               <p n="98">98. How is the office of a <hi>Political</hi> President to gather the coun<g ref="char:EOLhyphen"/>sel
+<pb n="48" facs="tcp:193510:25"/> to defend it, being gathered, to forbid all force and disorder, to promulge or set forth its decrees lawfully made by his authority and to compell those that refuse them, and what are the lawfull decrees of a counsel?</p>
+               <p n="99">99. How is the office of an <hi>Ecclesiastical</hi> president to propose the question, to moderate the disputing by the counsel of the as<g ref="char:EOLhyphen"/>sessors to ask the opinion and bring the decrees by notaries into acts?</p>
+               <p n="100">100. What is common and what is special calling; how doth the Schools name it <hi>Actual Election, Effectual calling,</hi> and in<g ref="char:EOLhyphen"/>ward <hi>calling;</hi> what is the <hi>Efficient cause,</hi> what the impulsive, and what the instrumental cause of the special calling; how doth no<g ref="char:EOLhyphen"/>vaters or new ones falsely affirme, that sufficient grace is given to all?</p>
+               <p n="101">101. What are these Novators or new ones?</p>
+               <p n="102">102. How doth God call some before baptism, some in bap<g ref="char:EOLhyphen"/>tism, and some after baptism, which you speak of?</p>
+               <p n="103">103. How is common calling often times onely outward, and special calling inward?</p>
+               <p n="104">104. VVhat are the <hi>Immediate,</hi> and what the <hi>Mediate</hi> effects of special calling?</p>
+               <p n="105">105. What is faith <hi>Metonomically</hi> taken for sound doctrine, historical faith, temporarie faith, faith of miracles, historicall faith and saving faith?</p>
+               <p n="106">106. How is the instrumentall cause of saving faith, in persons of ripe yeares, ordinarily the word of God which ye call the words? Answer all these here queried of you, what are all the words, and what are all the names, and what are all these things, and who was the author of them, and who was the root; distin<g ref="char:EOLhyphen"/>guish every thing in it selfe, their author and root? So answer every one of these words and names and things, and what the words and names are; whether or no it is from the words that the wisdome that man hath taught, or the words that the holy G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ost hath taught; Answer these if you have that that can give a distinction?</p>
+               <p n="107">107. What is the justification which ye say by a forreigne sig<g ref="char:EOLhyphen"/>nification is to absolve and loose from sin; and to pronounce just or righteous by God; without inherent or inward Righteous<g ref="char:EOLhyphen"/>nesse?</p>
+               <p n="108">
+                  <pb n="49" facs="tcp:193510:25"/>108. What is the Righteousnesse of the cause, and the righte<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>usnesse of the person, perfect or begun, which you call inchoate? <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd what is perfect legal, and what perfect Evangelical righte<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>usnesse? And how is Inchoate righteousnesse, that which the spi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it begins in the faithful in this life, and perfects in another life, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd how is the perfect righteousnesse of Christ, the gift of justifi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ation, and begun righteousnesse the gift of sanctification; and what are all these things in themselves, and who was the Rise <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f them all; and the root of them all? Answer me, and distinguish <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hese words which were taught by mens wisdome, from those <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly Ghost doth speak; and give a distinction of the one <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>om the other, and every particular querie word and name and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd thing in it above mentioned? bring forth your answer to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he light.</p>
+               <p n="109">109: What are all your causes of justification, as the Efficient <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ause actively understood; the <hi>procegoumenal</hi> cause <hi>Prokatertical</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ause and the instrumental cause?</p>
+               <p n="110">110. How is this phrase as you call it, we are justified by faith <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tonimically,</hi> and is as much at to say, we are justified by the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erit of Christ apprehended by faith?</p>
+               <p n="111">111. How do good works, go before the person to be justified; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut follow the person justified?</p>
+               <p n="112">112. What is the matter of justification actively taken, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat is the matter passively taken, and what is the forme thereof <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ctively understood, which you say is an imputation of all Christs <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tisfaction, whereby its wholly ours, no otherwise then if we had <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erformed it our selves?</p>
+               <p n="113">113. How is the cause of justification for teaching sake exprest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> two Acts; Remission of sins, and imputation of Righteous<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>esse, or an abjudging of sinnes, and adjudging of perfect righte<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>usnesse; and how are these two in subject and time the same, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>et in very deed distinct?</p>
+               <p n="114">114. What is the forme of justification passively taken? How is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ustification imputative perfect and equall in all believers; give <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in your answer to all these things, words and names, and each <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ound &amp; root that hath borne them, and what they are in them<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lves and who was the Author; distinguish every name, every <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ord, every thing, their Author, distinguish of these words, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ames and things?</p>
+               <p n="115">
+                  <pb n="50" facs="tcp:193510:26"/>115. How doth sanctification accompany justification as light doth the Sun?</p>
+               <p n="116">116. How is it to sanctifie, to appoint things from a prophane to holy uses, and habitually to make holy?</p>
+               <p n="117">117. How are people commanded in the first sence to sancti<g ref="char:EOLhyphen"/>fie the Sabbath day?</p>
+               <p n="118">118. How must men in the sanctification of the Sabbath day discerne between to [eethikon] or that which is moral, and to [tupikon] that which is ceremoniall, and how was that ceremo<g ref="char:EOLhyphen"/>nial, that the seventh day should be precisely sanctified; and how is that moral, that one day in the seven should be appointed for Gods worship, and how doth the Church sanctifie the first day by Christs example, who ye say sanctfied it by his Resurrection and appearing, and how doth he thereby sanctifie it, and what is the word moral? give us in your answer to all these words, names and things, and what is the root of them all, and who was the first Author of them, and distinguish the one from the other, if you be men of understanding to put a difference and distinguish?</p>
+               <p n="119">119. What are feast daies of Christians, and how are they cal<g ref="char:EOLhyphen"/>led things a kinne to the sabbath, and how are such feasts in any sence not will Worship, but appointed for the remembrance of the benefits of Christ?</p>
+               <p n="120">120. How are <hi>Regeneration, renewing, convertion penitence, resi<g ref="char:EOLhyphen"/>picence and glorifying,</hi> all which (in sanctification) ye say is cal<g ref="char:EOLhyphen"/>led ambiguous, or doubtfull words?</p>
+               <p n="121">121. What is the efficient cause of sanctification commonly taken, and its efficient cause singularly taken, and in respect of the terme?</p>
+               <p n="122">122. What is the inward <hi>Impulsive cause,</hi> its <hi>Prokatarktical,</hi> its <hi>Instrumental,</hi> both outward and inward, to which ye say also ex<g ref="char:EOLhyphen"/>traordinary meanes do happen?</p>
+               <p n="123">123. What is the matter of sanctification, what is its forme and how expressed by two acts?</p>
+               <p n="124">124. What is that Sanctification which is not perfect in thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> life? Answer all these things as they are in themselves, and wha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are all these names and words, and what was the root of them, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whether or no there is not confusion amongst you, and in the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, these words of yours? Answer me, if you be in the life and wis<g ref="char:EOLhyphen"/>dom of God, what root every one hath its Name, and what it pro<g ref="char:EOLhyphen"/>ceeded from?</p>
+               <p n="125">
+                  <pb n="51" facs="tcp:193510:26"/>125. How doth <hi>Sanctification and Justification</hi> differ first in their Genus or kind, and how doth the righteousnesse of the first belong to the predicament of qualitie, the other to the predi<g ref="char:EOLhyphen"/>cament of relation; Secondly in their forme, as faith in justifica<g ref="char:EOLhyphen"/>tio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as a hand laies hold of Christs Righteousnesse, but sanctifi<g ref="char:EOLhyphen"/>cation is considered as the principle root of Good; Secondly you say in justification sin is taken away, onely as to guilt and punishment, but in Sanctification its abolished by little and little, as to its existence: Thirdly, in justification Christs righteous<g ref="char:EOLhyphen"/>nesse is imputed to men, in sanctification a new and inherent Righteousnesse is infused; Thirdly in their degrees, for say you, justification is one individual perfect, and equally happening to all, but Sanctification a successive act, and in some more, and some lesse; Answer, what be all these words, termes and names that are queried here, and things, give us an answer, what be they all in themselves, and what the root of every word of them is, and name, and thing, and terme, and whether they must end in the life or out of it, whether these words, things, termes in the queries a<g ref="char:EOLhyphen"/>bove mentioned was given forth from the Holy Ghost, or words of mens wisdomes teaching, distinguish the one from the other, and what was the root of mans wisdome, teaching words, and who was the first author of it, and out of what had it its beginning, and out from whence did it come? Answer, with that which doth not transgresse, what all these things, words be in themselves and whether or nay there be not lies and confusion in these words that are queried of you, which be your own words?</p>
+               <p n="126">126. What is the efficient cause of <hi>Christian Liberty</hi> commonly taken and singularly taken; what is its instrumental cause, its matter which hath the reason of a subject, and its matter about which it is conversant, and how is its forme expressed, in divers conditions by reason of the variety of objects?</p>
+               <p n="127">127. How is that Christian liberty that in this life which wholly frees not from the inhaesion or indwelling of sin in this life &amp; how is a man free from the guilt and dominion of sin while he is not freed from the sin? What be all these words, things and names, and from what wisdome came they from, the wisdom of God, or from the wisdome below, that teacheth words, and mixeth with scripture words it self, and what are all these words and names in themselves, and what is their root, and who was the
+<pb n="52" facs="tcp:193510:27"/> of them, distinguish every particular of their names, author, and root by themselves, who was the father of them?</p>
+               <p n="128">128. How is the consuming of Anti-christ by the breath of Christs mouth, the ruin only of <hi>Rome?</hi> and how is her ruin the only desolation and burning up of the whore? Answer, what are all these things, words, Anti-christ be wholly destroyed, when <hi>Rome</hi> is destroyed, is there none against Christ, but at <hi>Rome?</hi> doth not every one that hates the light, which Christ hath en<g ref="char:EOLhyphen"/>lightned every man that cometh into the world hate Christ, &amp; so Anti? Therefore answer all these things in their particular, and distinguish each from the other, and what is the name, and every word, and the root of every one of them which they came from, distinguish one from the other?</p>
+               <p n="129">129. What is <hi>Phylology and a Phylologist?</hi>
+               </p>
+               <p n="130">130. Whats <hi>a Compendium of Divinity,</hi> what <hi>an exposition and an expositor?</hi>
+               </p>
+               <p n="131">131. What are common places of <hi>Divinity,</hi> what is a <hi>text,</hi> and <hi>a textuary?</hi>
+               </p>
+               <p n="132">132. What is a <hi>Symbolum or Creed,</hi> or what is a <hi>Harmony of confession?</hi>
+               </p>
+               <p n="133">133. VVhat is a <hi>Catechism?</hi>
+               </p>
+               <p n="134">134. What are <hi>Institutions or introductions</hi> of or into <hi>Divinity?</hi>
+               </p>
+               <p n="135">135. What is a <hi>Paraphase,</hi> what <hi>a Metaphrase,</hi> and <hi>what a cata<g ref="char:EOLhyphen"/>phrase?</hi>
+               </p>
+               <p n="136">136. What is <hi>Orthodox</hi> and <hi>Orthodoxal?</hi> VVhats an <hi>Antiquerie,</hi> what <hi>a Bachellor and Master of Arts?</hi>
+               </p>
+               <p n="137">137. And what a <hi>Bachellor and a Doctor of civil Law, physick</hi> and <hi>divinity?</hi>
+               </p>
+               <p n="138">138. What is a <hi>Graduate,</hi> and an <hi>under-graduate?</hi>
+               </p>
+               <p n="139">139. What is an <hi>Academie, and Vniversity,</hi> and what is <hi>Aca<g ref="char:EOLhyphen"/>demical?</hi> and how are <hi>Academies</hi> the <hi>Nurseries</hi> of good learning, and how the eyes of the land?</p>
+               <p n="140">140. And what is a <hi>Reformed Church,</hi> what be all these things, what be all these names and all these words, and expressions and things that are above queried of? Answer every particular word name and thing and expression, and let us see if you see now in the time of the day, let us see if your eye sight be not the same in the day, that its in the night, and in the night that its in the
+<pb n="53" facs="tcp:193510:27"/> day? Answer the ground and the root of all these names and words, what was it, and w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o was the auther and first setting them forth, and inventing them? Therefore every name, every word every query give us in your answer, ground and root, and author, and speak to the thing, which be your own words, and let us see whether you be master of them, that you have power over your tongue; so to the things and words and names, answer, and his name, and the first setter of them up; and give you in the root and Author to the above mentioned?</p>
+               <p>And what is <hi>Divine,</hi> and whether that which is divine doth not comprehend all that which is not divine, the things and names and words and their root? was not <hi>Cain</hi> a vagabond that built a city? and was not he the first that kild about worship and sacri<g ref="char:EOLhyphen"/>fice, are not all things corrupted and languages, by the words of mens wisdome, and lost the simplicity of the purest of them? what was the first speech that was upon the earth in the World, had <hi>Adam</hi> the same speech in the fall that he had before the fall? whether or no there were so many languages when <hi>Babel</hi> was confounded as there is now at this day? Answer ye learned men, and if not; how many have come up since, who are they, and what be they, and hovv many languages and speeches have been upon the earth, and are there now, and what was the language before <hi>Babel,</hi> and whether any did keep the language at that time, and whether or no all was not confounded at that time, yea or nay? give us your answer, and whether or nay tongues be the o<g ref="char:EOLhyphen"/>riginal, and languages which goes no further then <hi>Babel,</hi> and whether or no tongues are not natural, and whether or no the beast, the false Church, the great whore and <hi>Babylon,</hi> and <hi>Pilate</hi> hath not power over them; and whether or no the Original hath not power over the beast, Dragon and false Church; and cemprehends them, and sees before they were? and whether or no people must not be redeemed out of the tongues and langua<g ref="char:EOLhyphen"/>ges, being confounded into them, and whether or nay they that be come into the word into the beginning, are not redeemed out of them, and cannot say that tongues are the original, which they be not redeemed out of?</p>
+               <p>And whether <hi>Hebrew, Greeke and Latine</hi> be not natural as well as <hi>Spanish, English, French, and Dutch?</hi> and whether or no here is not a confusion among tongues, in exalting naturals above natu<g ref="char:EOLhyphen"/>rals,
+<pb n="54" facs="tcp:193510:28"/> tongues above tongues, that say tongues are the origi<g ref="char:EOLhyphen"/>nal which are confounded, and which are the tongues that are not confounded? and who was the first rise of <hi>Latine,</hi> and the first rise of <hi>Greek,</hi> and whether they were before <hi>Babel</hi> was con<g ref="char:EOLhyphen"/>founded? And whether all languages, tongues and speeches be not corrupted with the pride and invention of their own, as they are languages, or tongues, or speeches of themselves? whether any one can say he hath the original if he be not in that which is be<g ref="char:EOLhyphen"/>fore tongues and languages was? and whether or no tongues doth not stand in the confounding part, and in the natural that will alter, and whether the life suffered not when tongues came up, and whether or no tongues were not set a top of Christ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he life?</p>
+               <p>And whether or no as all men as they are in their tongues, are they not natural men, which cannot know the things of God, or the original, and not see so far as <hi>Moses</hi> which saw before <hi>Babel,</hi> and whether or nay being confounded into naturals if they be natural, whether they that be spirituall be not redeemed out of the Natural, and do not come before they were, and whether or no they were not gone (that God confounded) from the life in their own selves, before they were confounded into their langua<g ref="char:EOLhyphen"/>ges and tongues? and whether or nay they that are come into the word of God, into the beginning, doth not comprehend all tongues, and <hi>Babel</hi> the beginning of them, and <hi>Pilate</hi> which set them a top of Christ, and <hi>Babylon</hi> the false Church, and the Beast and the false Prophet, and the Devil who is out of the truth, with the word which lives and abides for ever, which compre<g ref="char:EOLhyphen"/>hends all that which lives not, endures not for ever?</p>
+               <p>And whether or no there is not a pride in all Languages that must be stained and brought down, as they are in themselves, and whether or no they that are redeemed, are not redeemed out of all Languages and tongues, and what were the names that <hi>Adam</hi> gave to every creature before the fall, and whether they be the same now, that be in the Latin, in the English, in the Greek, in the Hebrew, and other tongues and Languages, and whether or no all things are not degenerated from its first nature, answer these things if you have the word by which all things were created? yea or nay? and which of them is the Language, tongue and speech they were spoken in, answer, if you be the Minsters of
+<pb n="55" facs="tcp:193510:28"/> Christ, and have the tongue of the Learned, you are able to answer doubts, and resolve Questions, and instructors of those that oppose themselves.</p>
+            </div>
+            <div type="part">
+               <p>TO every particular name, and thing, and word answer, and what was the ground and root of every one of these parti<g ref="char:EOLhyphen"/>cular words and names, and what was the cause of all these causes, and who was the first Author and setter up of all these Arts and Sciences, and what was his name, and what was his root, and from whence had he his his beginning? and so answer what all the words be in themselves, and whether they be the words that mans wisdom hath taught, or the words that the holy Ghost hath taught, and whether or nay they have sprung from a root that is holy or a root that is unholy? And whether or nay all causes of di<g ref="char:EOLhyphen"/>seases, need of teaching doth not spring from disobedience, and whether or nay all that doth teach, that teaches in the wisdom of God, is not from a holy root, and hath that that comprehends all, unholy roots and words proceeding from the unholy root, and the cause of all causes, is not he that is in the wisdom of God in seeing and feeling and knowledge of these? and whether or nay all you seven in your seven Arts, and seven Sciences to whom these are directed, has not spoken these words and these things, in strange words as are in this Book through your Arts and inventions of your wisdom; through that every Art and Science to make a Trade, and to keep people blind by your high expres<g ref="char:EOLhyphen"/>sions; therefore now I querie of you, whether or nay you have all these seven Arts and Sciences, whether you know all these words in your Arts and Sciences? whether you know these words, and whether you be perfect in your Trade, and if so, what was the Author of every particular word in it selfe, and what are the words in themselves, and what is every particular root in it self, and so to every thing, &amp; to every word, to every cause, and the cause of every cause, and the first that set up these seven Arts and Sciences, and whether an Art is not an invention, and whether an Art be not a Trade, and so what vvas the root that those first did spring and come forth from, from a good fountain and a holy root, ansvver, yea or nay these things follovving, every particular, ansvver to the thing it self, its name, the vvord, the cause, and vvhatsoever is queried of you in the Book.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
